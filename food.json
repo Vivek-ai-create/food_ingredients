@@ -1,0 +1,4767 @@
+
+[
+  {
+   "comment": "L003 Paneer, M014 Egg, quail, whole, raw, E021 Gooseberry"
+  },
+
+  {
+    "food_code": "S001",
+    "food_name": "Cat fish",
+    "local_name": null,
+    "protein_content": 15.86,
+    "total_fat": 0.93,
+    "total_dietary_fibre": 6.24,
+    "carbohydrate": 77.23,
+    "energy_kj": 518
+  },
+  {
+    "food_code": "S002",
+    "food_name": "Catla",
+    "local_name": "Catla",
+    "protein_content": 17.94,
+    "total_fat": 0.94,
+    "total_dietary_fibre": 2.15,
+    "carbohydrate": 78.43,
+    "energy_kj": 394
+  },
+  {
+    "food_code": "S003",
+    "food_name": "Freshwater Eel",
+    "local_name": "Baam",
+    "protein_content": 20.41,
+    "total_fat": 1.03,
+    "total_dietary_fibre": 2.63,
+    "carbohydrate": 75.57,
+    "energy_kj": 451
+  },
+  {
+    "food_code": "S004",
+    "food_name": "Gold fish",
+    "local_name": null,
+    "protein_content": 16.91,
+    "total_fat": 1.10,
+    "total_dietary_fibre": 2.94,
+    "carbohydrate": 79.07,
+    "energy_kj": 396
+  },
+  {
+    "food_code": "S005",
+    "food_name": "Pangas",
+    "local_name": "Pangas",
+    "protein_content": 17.12,
+    "total_fat": 1.12,
+    "total_dietary_fibre": 16.77,
+    "carbohydrate": 68.50,
+    "energy_kj": 852
+  },
+  {
+    "food_code": "S006",
+    "food_name": "Rohu",
+    "local_name": "Rohu",
+    "protein_content": 19.71,
+    "total_fat": 1.28,
+    "total_dietary_fibre": 2.39,
+    "carbohydrate": 76.34,
+    "energy_kj": 428
+  },
+  {
+    "food_code": "S007",
+    "food_name": "Crab",
+    "local_name": "Kekda",
+    "protein_content": 13.23,
+    "total_fat": 1.23,
+    "total_dietary_fibre": 0.89,
+    "carbohydrate": 80.58,
+    "energy_kj": 327
+  },
+  {
+    "food_code": "S008",
+    "food_name": "Prawns, big",
+    "local_name": "Jhinga",
+    "protein_content": 19.24,
+    "total_fat": 0.84,
+    "total_dietary_fibre": 0.52,
+    "carbohydrate": 77.43,
+    "energy_kj": 380
+  },
+  {
+    "food_code": "S009",
+    "food_name": "Prawns, small",
+    "local_name": "Jhinga",
+    "protein_content": 13.07,
+    "total_fat": 0.86,
+    "total_dietary_fibre": 0.78,
+    "carbohydrate": 82.58,
+    "energy_kj": 297
+  },
+  {
+    "food_code": "S010",
+    "food_name": "Tiger prawns",
+    "local_name": "Tiger Jhinga",
+    "protein_content": 14.24,
+    "total_fat": 0.83,
+    "total_dietary_fibre": 0.66,
+    "carbohydrate": 83.24,
+    "energy_kj": 284
+  },
+  {
+    "food_code": "R001",
+    "food_name": "Clam, green shell",
+    "local_name": null,
+    "protein_content": 12.14,
+    "total_fat": 0.98,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 80.07,
+    "energy_kj": 243
+  },
+  {
+    "food_code": "R002",
+    "food_name": "Clam, white shell, ribbed",
+    "local_name": null,
+    "protein_content": 11.82,
+    "total_fat": 1.34,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 80.27,
+    "energy_kj": 250
+  },
+  {
+    "food_code": "R003",
+    "food_name": "Octopus",
+    "local_name": null,
+    "protein_content": 14.71,
+    "total_fat": 1.12,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 80.45,
+    "energy_kj": 334
+  },
+  {
+    "food_code": "R004",
+    "food_name": "Squid, black",
+    "local_name": "Squid",
+    "protein_content": 16.10,
+    "total_fat": 1.07,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 80.59,
+    "energy_kj": 335
+  },
+  {
+    "food_code": "R005",
+    "food_name": "Squid, hard shell",
+    "local_name": "Squid",
+    "protein_content": 16.82,
+    "total_fat": 0.93,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 80.52,
+    "energy_kj": 320
+  },
+  {
+    "food_code": "R006",
+    "food_name": "Squid, red",
+    "local_name": "Squid",
+    "protein_content": 16.25,
+    "total_fat": 1.44,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 80.85,
+    "energy_kj": 329
+  },
+  {
+    "food_code": "R007",
+    "food_name": "Squid, white, small",
+    "local_name": "Squid",
+    "protein_content": 17.41,
+    "total_fat": 1.15,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 79.38,
+    "energy_kj": 353
+  },
+  {
+    "food_code": "Q001",
+    "food_name": "Crab",
+    "local_name": "Kekda",
+    "protein_content": 10.23,
+    "total_fat": 1.41,
+    "total_dietary_fibre": 1.74,
+    "carbohydrate": 79.77,
+    "energy_kj": 343
+  },
+  {
+    "food_code": "Q002",
+    "food_name": "Crab, sea",
+    "local_name": "Samudri Kekda",
+    "protein_content": 15.36,
+    "total_fat": 0.60,
+    "total_dietary_fibre": 0.92,
+    "carbohydrate": 79.67,
+    "energy_kj": 283
+  },
+  {
+    "food_code": "Q003",
+    "food_name": "Lobster, brown",
+    "local_name": "Lobster",
+    "protein_content": 15.96,
+    "total_fat": 0.56,
+    "total_dietary_fibre": 1.29,
+    "carbohydrate": 81.48,
+    "energy_kj": 292
+  },
+  {
+    "food_code": "Q004",
+    "food_name": "Lobster, king size",
+    "local_name": "Badi Lobster",
+    "protein_content": 18.54,
+    "total_fat": 0.78,
+    "total_dietary_fibre": 1.08,
+    "carbohydrate": 77.77,
+    "energy_kj": 375
+  },
+  {
+    "food_code": "Q005",
+    "food_name": "Mud crab",
+    "local_name": "Kekda",
+    "protein_content": 10.00,
+    "total_fat": 0.55,
+    "total_dietary_fibre": 2.60,
+    "carbohydrate": 83.10,
+    "energy_kj": 190
+  },
+  {
+    "food_code": "Q006",
+    "food_name": "Oyster",
+    "local_name": null,
+    "protein_content": 9.51,
+    "total_fat": 2.44,
+    "total_dietary_fibre": 2.47,
+    "carbohydrate": 82.50,
+    "energy_kj": 252
+  },
+  {
+    "food_code": "Q007",
+    "food_name": "Tiger prawns, brown",
+    "local_name": "Jhinga",
+    "protein_content": 14.85,
+    "total_fat": 0.56,
+    "total_dietary_fibre": 0.94,
+    "carbohydrate": 82.41,
+    "energy_kj": 273
+  },
+  {
+    "food_code": "Q008",
+    "food_name": "Tiger Prawns, orange",
+    "local_name": "Tiger Jhinga",
+    "protein_content": 14.25,
+    "total_fat": 0.74,
+    "total_dietary_fibre": 0.83,
+    "carbohydrate": 81.48,
+    "energy_kj": 270
+  },
+  {
+    "food_code": "P001",
+    "food_name": "Allathi",
+    "local_name": null,
+    "protein_content": 21.77,
+    "total_fat": 0.98,
+    "total_dietary_fibre": 1.06,
+    "carbohydrate": 75.91,
+    "energy_kj": 406
+  },
+  {
+    "food_code": "P002",
+    "food_name": "Aluva",
+    "local_name": "Avoli",
+    "protein_content": 21.63,
+    "total_fat": 1.80,
+    "total_dietary_fibre": 1.39,
+    "carbohydrate": 75.71,
+    "energy_kj": 434
+  },
+  {
+    "food_code": "P003",
+    "food_name": "Anchovy",
+    "local_name": "Nethili",
+    "protein_content": 19.88,
+    "total_fat": 0.78,
+    "total_dietary_fibre": 1.62,
+    "carbohydrate": 77.77,
+    "energy_kj": 367
+  },
+  {
+    "food_code": "P004",
+    "food_name": "Ari fish",
+    "local_name": null,
+    "protein_content": 22.01,
+    "total_fat": 1.11,
+    "total_dietary_fibre": 1.34,
+    "carbohydrate": 77.09,
+    "energy_kj": 415
+  },
+  {
+    "food_code": "P005",
+    "food_name": "Betki",
+    "local_name": "Bhetki",
+    "protein_content": 15.28,
+    "total_fat": 0.29,
+    "total_dietary_fibre": 1.12,
+    "carbohydrate": 82.52,
+    "energy_kj": 284
+  },
+  {
+    "food_code": "P006",
+    "food_name": "Black snapper",
+    "local_name": "Kali snapper",
+    "protein_content": 19.50,
+    "total_fat": 1.24,
+    "total_dietary_fibre": 1.19,
+    "carbohydrate": 78.09,
+    "energy_kj": 377
+  },
+  {
+    "food_code": "P007",
+    "food_name": "Bombay duck",
+    "local_name": "Bombil",
+    "protein_content": 13.53,
+    "total_fat": 1.03,
+    "total_dietary_fibre": 1.07,
+    "carbohydrate": 83.24,
+    "energy_kj": 287
+  },
+  {
+    "food_code": "P008",
+    "food_name": "Bomruralu",
+    "local_name": null,
+    "protein_content": 22.30,
+    "total_fat": 2.87,
+    "total_dietary_fibre": 1.21,
+    "carbohydrate": 76.42,
+    "energy_kj": 485
+  },
+  {
+    "food_code": "P009",
+    "food_name": "Cat fish",
+    "local_name": "Singhi",
+    "protein_content": 22.18,
+    "total_fat": 2.13,
+    "total_dietary_fibre": 1.32,
+    "carbohydrate": 76.22,
+    "energy_kj": 456
+  },
+  {
+    "food_code": "P010",
+    "food_name": "Chakla",
+    "local_name": null,
+    "protein_content": 20.21,
+    "total_fat": 1.68,
+    "total_dietary_fibre": 1.07,
+    "carbohydrate": 78.36,
+    "energy_kj": 406
+  },
+  {
+    "food_code": "P011",
+    "food_name": "Chappal",
+    "local_name": null,
+    "protein_content": 17.17,
+    "total_fat": 0.67,
+    "total_dietary_fibre": 1.23,
+    "carbohydrate": 80.61,
+    "energy_kj": 317
+  },
+  {
+    "food_code": "P012",
+    "food_name": "Chelu",
+    "local_name": null,
+    "protein_content": 20.02,
+    "total_fat": 0.70,
+    "total_dietary_fibre": 1.28,
+    "carbohydrate": 76.36,
+    "energy_kj": 366
+  },
+  {
+    "food_code": "P013",
+    "food_name": "Chembali",
+    "local_name": "Chemmeen",
+    "protein_content": 20.06,
+    "total_fat": 1.77,
+    "total_dietary_fibre": 0.86,
+    "carbohydrate": 77.54,
+    "energy_kj": 406
+  },
+  {
+    "food_code": "P014",
+    "food_name": "Eri meen",
+    "local_name": null,
+    "protein_content": 22.30,
+    "total_fat": 2.02,
+    "total_dietary_fibre": 1.28,
+    "carbohydrate": 76.54,
+    "energy_kj": 454
+  },
+  {
+    "food_code": "P015",
+    "food_name": "Gobro",
+    "local_name": null,
+    "protein_content": 19.37,
+    "total_fat": 0.88,
+    "total_dietary_fibre": 0.98,
+    "carbohydrate": 78.84,
+    "energy_kj": 362
+  },
+  {
+    "food_code": "P016",
+    "food_name": "Guitar fish",
+    "local_name": null,
+    "protein_content": 22.56,
+    "total_fat": 0.44,
+    "total_dietary_fibre": 1.32,
+    "carbohydrate": 75.73,
+    "energy_kj": 400
+  },
+  {
+    "food_code": "P017",
+    "food_name": "Hilsa",
+    "local_name": "Ilish",
+    "protein_content": 21.80,
+    "total_fat": 18.49,
+    "total_dietary_fibre": 1.11,
+    "carbohydrate": 60.09,
+    "energy_kj": 1083
+  },
+  {
+    "food_code": "P018",
+    "food_name": "Jallal",
+    "local_name": null,
+    "protein_content": 21.55,
+    "total_fat": 1.46,
+    "total_dietary_fibre": 1.17,
+    "carbohydrate": 77.50,
+    "energy_kj": 420
+  },
+  {
+    "food_code": "P019",
+    "food_name": "Jathi vela meen",
+    "local_name": null,
+    "protein_content": 22.45,
+    "total_fat": 1.92,
+    "total_dietary_fibre": 1.26,
+    "carbohydrate": 75.66,
+    "energy_kj": 453
+  },
+  {
+    "food_code": "P020",
+    "food_name": "Kadal bral",
+    "local_name": "Bral",
+    "protein_content": 18.72,
+    "total_fat": 1.34,
+    "total_dietary_fibre": 1.27,
+    "carbohydrate": 79.66,
+    "energy_kj": 368
+  },
+  {
+    "food_code": "P021",
+    "food_name": "Kadali",
+    "local_name": null,
+    "protein_content": 22.07,
+    "total_fat": 4.20,
+    "total_dietary_fibre": 1.06,
+    "carbohydrate": 73.74,
+    "energy_kj": 530
+  },
+  {
+    "food_code": "P022",
+    "food_name": "Kalamaara",
+    "local_name": null,
+    "protein_content": 20.89,
+    "total_fat": 4.54,
+    "total_dietary_fibre": 1.08,
+    "carbohydrate": 75.50,
+    "energy_kj": 523
+  },
+  {
+    "food_code": "P023",
+    "food_name": "Kalava",
+    "local_name": "Kalava",
+    "protein_content": 19.38,
+    "total_fat": 1.20,
+    "total_dietary_fibre": 1.34,
+    "carbohydrate": 80.02,
+    "energy_kj": 374
+  },
+  {
+    "food_code": "P024",
+    "food_name": "Kanamayya",
+    "local_name": null,
+    "protein_content": 20.19,
+    "total_fat": 0.65,
+    "total_dietary_fibre": 1.07,
+    "carbohydrate": 77.59,
+    "energy_kj": 367
+  },
+  {
+    "food_code": "P025",
+    "food_name": "Kannadi paarai",
+    "local_name": "Paarai",
+    "protein_content": 22.09,
+    "total_fat": 1.27,
+    "total_dietary_fibre": 1.28,
+    "carbohydrate": 76.25,
+    "energy_kj": 423
+  },
+  {
+    "food_code": "P026",
+    "food_name": "Karimeen",
+    "local_name": "Karimeen",
+    "protein_content": 19.68,
+    "total_fat": 1.38,
+    "total_dietary_fibre": 0.97,
+    "carbohydrate": 78.66,
+    "energy_kj": 386
+  },
+  {
+    "food_code": "P027",
+    "food_name": "Karnagawala",
+    "local_name": null,
+    "protein_content": 19.52,
+    "total_fat": 0.84,
+    "total_dietary_fibre": 1.45,
+    "carbohydrate": 79.22,
+    "energy_kj": 363
+  },
+  {
+    "food_code": "P028",
+    "food_name": "Kayrai",
+    "local_name": null,
+    "protein_content": 20.15,
+    "total_fat": 3.00,
+    "total_dietary_fibre": 1.28,
+    "carbohydrate": 72.69,
+    "energy_kj": 454
+  },
+  {
+    "food_code": "P029",
+    "food_name": "Kiriyan",
+    "local_name": null,
+    "protein_content": 22.49,
+    "total_fat": 4.70,
+    "total_dietary_fibre": 0.94,
+    "carbohydrate": 72.39,
+    "energy_kj": 556
+  },
+  {
+    "food_code": "P030",
+    "food_name": "Kite fish",
+    "local_name": null,
+    "protein_content": 23.07,
+    "total_fat": 0.56,
+    "total_dietary_fibre": 1.50,
+    "carbohydrate": 77.61,
+    "energy_kj": 413
+  },
+  {
+    "food_code": "P031",
+    "food_name": "Korka",
+    "local_name": null,
+    "protein_content": 23.72,
+    "total_fat": 3.36,
+    "total_dietary_fibre": 1.09,
+    "carbohydrate": 72.25,
+    "energy_kj": 528
+  },
+  {
+    "food_code": "P032",
+    "food_name": "Kulam paarai",
+    "local_name": "Paarai",
+    "protein_content": 21.62,
+    "total_fat": 3.60,
+    "total_dietary_fibre": 1.25,
+    "carbohydrate": 73.44,
+    "energy_kj": 501
+  },
+  {
+    "food_code": "P033",
+    "food_name": "Maagaa",
+    "local_name": null,
+    "protein_content": 20.11,
+    "total_fat": 0.67,
+    "total_dietary_fibre": 1.01,
+    "carbohydrate": 79.23,
+    "energy_kj": 366
+  },
+  {
+    "food_code": "P034",
+    "food_name": "Mackerel",
+    "local_name": "Bangda",
+    "protein_content": 21.51,
+    "total_fat": 1.53,
+    "total_dietary_fibre": 1.20,
+    "carbohydrate": 74.55,
+    "energy_kj": 423
+  },
+  {
+    "food_code": "P035",
+    "food_name": "Manda clathi",
+    "local_name": null,
+    "protein_content": 21.27,
+    "total_fat": 1.00,
+    "total_dietary_fibre": 1.48,
+    "carbohydrate": 76.32,
+    "energy_kj": 398
+  },
+  {
+    "food_code": "P036",
+    "food_name": "Matha",
+    "local_name": null,
+    "protein_content": 21.17,
+    "total_fat": 0.79,
+    "total_dietary_fibre": 1.35,
+    "carbohydrate": 79.81,
+    "energy_kj": 389
+  },
+  {
+    "food_code": "P037",
+    "food_name": "Milk fish",
+    "local_name": "Palmeen",
+    "protein_content": 23.66,
+    "total_fat": 1.09,
+    "total_dietary_fibre": 1.12,
+    "carbohydrate": 72.22,
+    "energy_kj": 442
+  },
+  {
+    "food_code": "P038",
+    "food_name": "Moon fish",
+    "local_name": null,
+    "protein_content": 20.74,
+    "total_fat": 4.69,
+    "total_dietary_fibre": 1.69,
+    "carbohydrate": 74.21,
+    "energy_kj": 526
+  },
+  {
+    "food_code": "P039",
+    "food_name": "Mullet",
+    "local_name": "Kanpon",
+    "protein_content": 20.23,
+    "total_fat": 1.32,
+    "total_dietary_fibre": 1.16,
+    "carbohydrate": 76.12,
+    "energy_kj": 393
+  },
+  {
+    "food_code": "P040",
+    "food_name": "Mural",
+    "local_name": "Murrel",
+    "protein_content": 19.04,
+    "total_fat": 0.58,
+    "total_dietary_fibre": 1.11,
+    "carbohydrate": 78.96,
+    "energy_kj": 345
+  },
+  {
+    "food_code": "P041",
+    "food_name": "Myil meen",
+    "local_name": null,
+    "protein_content": 22.89,
+    "total_fat": 0.56,
+    "total_dietary_fibre": 1.21,
+    "carbohydrate": 75.57,
+    "energy_kj": 410
+  },
+  {
+    "food_code": "P042",
+    "food_name": "Nalla bontha",
+    "local_name": null,
+    "protein_content": 19.82,
+    "total_fat": 0.72,
+    "total_dietary_fibre": 1.00,
+    "carbohydrate": 79.32,
+    "energy_kj": 364
+  },
+  {
+    "food_code": "P043",
+    "food_name": "Narba",
+    "local_name": null,
+    "protein_content": 21.95,
+    "total_fat": 1.60,
+    "total_dietary_fibre": 1.17,
+    "carbohydrate": 76.37,
+    "energy_kj": 432
+  },
+  {
+    "food_code": "P044",
+    "food_name": "Paarai",
+    "local_name": "Paarai",
+    "protein_content": 21.58,
+    "total_fat": 1.84,
+    "total_dietary_fibre": 1.21,
+    "carbohydrate": 75.77,
+    "energy_kj": 435
+  },
+  {
+    "food_code": "P045",
+    "food_name": "Padayappa",
+    "local_name": null,
+    "protein_content": 19.70,
+    "total_fat": 0.69,
+    "total_dietary_fibre": 1.26,
+    "carbohydrate": 79.18,
+    "energy_kj": 360
+  },
+  {
+    "food_code": "P046",
+    "food_name": "Pali kora",
+    "local_name": null,
+    "protein_content": 19.25,
+    "total_fat": 1.81,
+    "total_dietary_fibre": 1.00,
+    "carbohydrate": 78.63,
+    "energy_kj": 394
+  },
+  {
+    "food_code": "P047",
+    "food_name": "Pambada",
+    "local_name": null,
+    "protein_content": 21.95,
+    "total_fat": 4.44,
+    "total_dietary_fibre": 1.41,
+    "carbohydrate": 74.67,
+    "energy_kj": 537
+  },
+  {
+    "food_code": "P048",
+    "food_name": "Pandukopa",
+    "local_name": null,
+    "protein_content": 19.73,
+    "total_fat": 0.65,
+    "total_dietary_fibre": 1.15,
+    "carbohydrate": 77.46,
+    "energy_kj": 360
+  },
+  {
+    "food_code": "P049",
+    "food_name": "Parava",
+    "local_name": null,
+    "protein_content": 21.50,
+    "total_fat": 2.74,
+    "total_dietary_fibre": 1.08,
+    "carbohydrate": 77.19,
+    "energy_kj": 467
+  },
+  {
+    "food_code": "P050",
+    "food_name": "Parcus",
+    "local_name": null,
+    "protein_content": 19.87,
+    "total_fat": 0.62,
+    "total_dietary_fibre": 1.12,
+    "carbohydrate": 79.01,
+    "energy_kj": 361
+  },
+  {
+    "food_code": "P051",
+    "food_name": "Parrot fish",
+    "local_name": "Tota meen",
+    "protein_content": 20.82,
+    "total_fat": 0.57,
+    "total_dietary_fibre": 1.40,
+    "carbohydrate": 76.84,
+    "energy_kj": 375
+  },
+  {
+    "food_code": "P052",
+    "food_name": "Perinkilichai",
+    "local_name": null,
+    "protein_content": 20.89,
+    "total_fat": 0.87,
+    "total_dietary_fibre": 1.02,
+    "carbohydrate": 78.33,
+    "energy_kj": 387
+  },
+  {
+    "food_code": "P053",
+    "food_name": "Phopat",
+    "local_name": null,
+    "protein_content": 22.05,
+    "total_fat": 1.33,
+    "total_dietary_fibre": 1.24,
+    "carbohydrate": 76.42,
+    "energy_kj": 424
+  },
+  {
+    "food_code": "P054",
+    "food_name": "Piranha",
+    "local_name": null,
+    "protein_content": 20.46,
+    "total_fat": 5.43,
+    "total_dietary_fibre": 0.93,
+    "carbohydrate": 76.15,
+    "energy_kj": 549
+  },
+  {
+    "food_code": "P055",
+    "food_name": "Pomfret, black",
+    "local_name": "kala Avoli",
+    "protein_content": 18.91,
+    "total_fat": 4.83,
+    "total_dietary_fibre": 0.97,
+    "carbohydrate": 74.43,
+    "energy_kj": 515
+  },
+  {
+    "food_code": "P056",
+    "food_name": "Pomfret, snub nose",
+    "local_name": "Avoli",
+    "protein_content": 21.05,
+    "total_fat": 0.46,
+    "total_dietary_fibre": 1.29,
+    "carbohydrate": 77.81,
+    "energy_kj": 375
+  },
+  {
+    "food_code": "P057",
+    "food_name": "Pomfret, white",
+    "local_name": "Safed Avoli",
+    "protein_content": 19.02,
+    "total_fat": 5.12,
+    "total_dietary_fibre": 1.01,
+    "carbohydrate": 75.91,
+    "energy_kj": 513
+  },
+  {
+    "food_code": "P058",
+    "food_name": "Pranel",
+    "local_name": null,
+    "protein_content": 19.69,
+    "total_fat": 1.89,
+    "total_dietary_fibre": 0.76,
+    "carbohydrate": 79.54,
+    "energy_kj": 405
+  },
+  {
+    "food_code": "P059",
+    "food_name": "Pulli paarai",
+    "local_name": "Paarai",
+    "protein_content": 20.06,
+    "total_fat": 1.55,
+    "total_dietary_fibre": 1.19,
+    "carbohydrate": 75.99,
+    "energy_kj": 399
+  },
+  {
+    "food_code": "P060",
+    "food_name": "Queen fish",
+    "local_name": null,
+    "protein_content": 20.97,
+    "total_fat": 1.17,
+    "total_dietary_fibre": 1.22,
+    "carbohydrate": 76.63,
+    "energy_kj": 400
+  },
+  {
+    "food_code": "P061",
+    "food_name": "Raai fish",
+    "local_name": "Rahu",
+    "protein_content": 21.61,
+    "total_fat": 1.69,
+    "total_dietary_fibre": 1.11,
+    "carbohydrate": 77.14,
+    "energy_kj": 430
+  },
+  {
+    "food_code": "P062",
+    "food_name": "Raai vanthu",
+    "local_name": null,
+    "protein_content": 19.39,
+    "total_fat": 2.17,
+    "total_dietary_fibre": 0.92,
+    "carbohydrate": 79.95,
+    "energy_kj": 410
+  },
+  {
+    "food_code": "P063",
+    "food_name": "Rani",
+    "local_name": "Rani fish",
+    "protein_content": 18.83,
+    "total_fat": 1.49,
+    "total_dietary_fibre": 1.01,
+    "carbohydrate": 78.55,
+    "energy_kj": 377
+  },
+  {
+    "food_code": "P064",
+    "food_name": "Ray fish, bow head, spotted",
+    "local_name": "Stingray",
+    "protein_content": 19.03,
+    "total_fat": 0.70,
+    "total_dietary_fibre": 1.15,
+    "carbohydrate": 80.30,
+    "energy_kj": 349
+  },
+  {
+    "food_code": "P065",
+    "food_name": "Red snapper",
+    "local_name": "Raja rani",
+    "protein_content": 22.79,
+    "total_fat": 1.34,
+    "total_dietary_fibre": 1.26,
+    "carbohydrate": 76.28,
+    "energy_kj": 437
+  },
+  {
+    "food_code": "P066",
+    "food_name": "Red snapper, small",
+    "local_name": "Raja rani",
+    "protein_content": 21.50,
+    "total_fat": 2.30,
+    "total_dietary_fibre": 1.10,
+    "carbohydrate": 76.31,
+    "energy_kj": 451
+  },
+  {
+    "food_code": "P067",
+    "food_name": "Sadaya",
+    "local_name": null,
+    "protein_content": 20.68,
+    "total_fat": 2.97,
+    "total_dietary_fibre": 1.32,
+    "carbohydrate": 75.53,
+    "energy_kj": 462
+  },
+  {
+    "food_code": "P068",
+    "food_name": "Salmon",
+    "local_name": "Salmon",
+    "protein_content": 20.97,
+    "total_fat": 9.86,
+    "total_dietary_fibre": 1.13,
+    "carbohydrate": 67.84,
+    "energy_kj": 721
+  },
+  {
+    "food_code": "P069",
+    "food_name": "Sangada",
+    "local_name": null,
+    "protein_content": 20.26,
+    "total_fat": 2.67,
+    "total_dietary_fibre": 1.26,
+    "carbohydrate": 78.51,
+    "energy_kj": 443
+  },
+  {
+    "food_code": "P070",
+    "food_name": "Sankata paarai",
+    "local_name": "Paarai",
+    "protein_content": 21.87,
+    "total_fat": 1.68,
+    "total_dietary_fibre": 1.18,
+    "carbohydrate": 74.88,
+    "energy_kj": 434
+  },
+  {
+    "food_code": "P071",
+    "food_name": "Sardine",
+    "local_name": "Mathi",
+    "protein_content": 17.91,
+    "total_fat": 8.99,
+    "total_dietary_fibre": 0.84,
+    "carbohydrate": 72.29,
+    "energy_kj": 637
+  },
+  {
+    "food_code": "P072",
+    "food_name": "Shark",
+    "local_name": "Mori",
+    "protein_content": 21.60,
+    "total_fat": 0.83,
+    "total_dietary_fibre": 1.08,
+    "carbohydrate": 72.82,
+    "energy_kj": 398
+  },
+  {
+    "food_code": "P073",
+    "food_name": "Shark, hammer head",
+    "local_name": "Mori",
+    "protein_content": 23.40,
+    "total_fat": 0.80,
+    "total_dietary_fibre": 0.92,
+    "carbohydrate": 74.61,
+    "energy_kj": 432
+  },
+  {
+    "food_code": "P074",
+    "food_name": "Shark, spotted",
+    "local_name": "Mori",
+    "protein_content": 20.95,
+    "total_fat": 0.75,
+    "total_dietary_fibre": 1.04,
+    "carbohydrate": 78.83,
+    "energy_kj": 384
+  },
+  {
+    "food_code": "P075",
+    "food_name": "Shelavu",
+    "local_name": null,
+    "protein_content": 22.46,
+    "total_fat": 1.74,
+    "total_dietary_fibre": 1.26,
+    "carbohydrate": 74.60,
+    "energy_kj": 446
+  },
+  {
+    "food_code": "P076",
+    "food_name": "Silan",
+    "local_name": null,
+    "protein_content": 22.72,
+    "total_fat": 6.68,
+    "total_dietary_fibre": 0.77,
+    "carbohydrate": 70.12,
+    "energy_kj": 633
+  },
+  {
+    "food_code": "P077",
+    "food_name": "Silk fish",
+    "local_name": null,
+    "protein_content": 20.65,
+    "total_fat": 1.53,
+    "total_dietary_fibre": 1.05,
+    "carbohydrate": 77.61,
+    "energy_kj": 408
+  },
+  {
+    "food_code": "P078",
+    "food_name": "Silver carp",
+    "local_name": "Silver carp",
+    "protein_content": 21.71,
+    "total_fat": 5.17,
+    "total_dietary_fibre": 0.95,
+    "carbohydrate": 72.47,
+    "energy_kj": 555
+  },
+  {
+    "food_code": "P079",
+    "food_name": "Sole fish",
+    "local_name": "Lepor",
+    "protein_content": 19.05,
+    "total_fat": 1.18,
+    "total_dietary_fibre": 1.06,
+    "carbohydrate": 80.18,
+    "energy_kj": 367
+  },
+  {
+    "food_code": "P080",
+    "food_name": "Stingray",
+    "local_name": "Stingray",
+    "protein_content": 23.98,
+    "total_fat": 0.68,
+    "total_dietary_fibre": 1.14,
+    "carbohydrate": 75.67,
+    "energy_kj": 408
+  },
+  {
+    "food_code": "P081",
+    "food_name": "Tarlava",
+    "local_name": null,
+    "protein_content": 21.72,
+    "total_fat": 1.20,
+    "total_dietary_fibre": 1.14,
+    "carbohydrate": 76.76,
+    "energy_kj": 414
+  },
+  {
+    "food_code": "P082",
+    "food_name": "Tholam",
+    "local_name": null,
+    "protein_content": 20.78,
+    "total_fat": 2.13,
+    "total_dietary_fibre": 1.06,
+    "carbohydrate": 76.20,
+    "energy_kj": 432
+  },
+  {
+    "food_code": "P083",
+    "food_name": "Tilapia",
+    "local_name": "Tilapia",
+    "protein_content": 18.48,
+    "total_fat": 1.08,
+    "total_dietary_fibre": 1.18,
+    "carbohydrate": 79.57,
+    "energy_kj": 349
+  },
+  {
+    "food_code": "P084",
+    "food_name": "Tuna",
+    "local_name": "Kezhangu meen",
+    "protein_content": 24.50,
+    "total_fat": 1.44,
+    "total_dietary_fibre": 1.11,
+    "carbohydrate": 72.12,
+    "energy_kj": 470
+  },
+  {
+    "food_code": "P085",
+    "food_name": "Tuna, striped",
+    "local_name": "Kezhangu meen",
+    "protein_content": 21.28,
+    "total_fat": 1.12,
+    "total_dietary_fibre": 0.87,
+    "carbohydrate": 77.76,
+    "energy_kj": 403
+  },
+  {
+    "food_code": "P086",
+    "food_name": "Valava",
+    "local_name": null,
+    "protein_content": 21.80,
+    "total_fat": 1.06,
+    "total_dietary_fibre": 1.27,
+    "carbohydrate": 77.25,
+    "energy_kj": 410
+  },
+  {
+    "food_code": "P087",
+    "food_name": "Vanjaram",
+    "local_name": "Surmai",
+    "protein_content": 22.28,
+    "total_fat": 5.18,
+    "total_dietary_fibre": 1.33,
+    "carbohydrate": 72.30,
+    "energy_kj": 570
+  },
+  {
+    "food_code": "P088",
+    "food_name": "Vela meen",
+    "local_name": null,
+    "protein_content": 22.16,
+    "total_fat": 4.34,
+    "total_dietary_fibre": 1.34,
+    "carbohydrate": 71.82,
+    "energy_kj": 537
+  },
+  {
+    "food_code": "P089",
+    "food_name": "Vora",
+    "local_name": null,
+    "protein_content": 20.14,
+    "total_fat": 2.14,
+    "total_dietary_fibre": 1.26,
+    "carbohydrate": 76.94,
+    "energy_kj": 422
+  },
+  {
+    "food_code": "P090",
+    "food_name": "Whale shark",
+    "local_name": "Mori",
+    "protein_content": 21.83,
+    "total_fat": 0.82,
+    "total_dietary_fibre": 1.48,
+    "carbohydrate": 77.59,
+    "energy_kj": 401
+  },
+  {
+    "food_code": "P091",
+    "food_name": "Xiphinis",
+    "local_name": null,
+    "protein_content": 19.82,
+    "total_fat": 0.88,
+    "total_dietary_fibre": 1.15,
+    "carbohydrate": 79.22,
+    "energy_kj": 370
+  },
+  {
+    "food_code": "P092",
+    "food_name": "Eggs, Cat fish",
+    "local_name": "Singhi ande",
+    "protein_content": 24.68,
+    "total_fat": 5.28,
+    "total_dietary_fibre": 1.57,
+    "carbohydrate": 69.34,
+    "energy_kj": 600
+  },
+  {
+    "food_code": "O001",
+    "food_name": "Goat, shoulder",
+    "local_name": "Bakre ka kandha",
+    "protein_content": 20.33,
+    "total_fat": 11.94,
+    "total_dietary_fibre": 0.90,
+    "carbohydrate": 66.39,
+    "energy_kj": 787
+  },
+  {
+    "food_code": "O002",
+    "food_name": "Goat, chops",
+    "local_name": "Bakre ki chaap",
+    "protein_content": 20.39,
+    "total_fat": 5.98,
+    "total_dietary_fibre": 0.99,
+    "carbohydrate": 72.46,
+    "energy_kj": 568
+  },
+  {
+    "food_code": "O003",
+    "food_name": "Goat, legs",
+    "local_name": "Bakre ki raan",
+    "protein_content": 22.07,
+    "total_fat": 7.94,
+    "total_dietary_fibre": 0.97,
+    "carbohydrate": 68.85,
+    "energy_kj": 669
+  },
+  {
+    "food_code": "O004",
+    "food_name": "Goat, brain",
+    "local_name": "Bheja",
+    "protein_content": 13.82,
+    "total_fat": 8.06,
+    "total_dietary_fibre": 1.29,
+    "carbohydrate": 76.74,
+    "energy_kj": 533
+  },
+  {
+    "food_code": "O005",
+    "food_name": "Goat, tongue",
+    "local_name": "Zubaan",
+    "protein_content": 16.63,
+    "total_fat": 13.68,
+    "total_dietary_fibre": 1.02,
+    "carbohydrate": 68.40,
+    "energy_kj": 789
+  },
+  {
+    "food_code": "O006",
+    "food_name": "Goat, lungs",
+    "local_name": "Phepda",
+    "protein_content": 16.86,
+    "total_fat": 3.09,
+    "total_dietary_fibre": 0.74,
+    "carbohydrate": 79.03,
+    "energy_kj": 401
+  },
+  {
+    "food_code": "O007",
+    "food_name": "Goat, heart",
+    "local_name": "Dil",
+    "protein_content": 19.38,
+    "total_fat": 4.40,
+    "total_dietary_fibre": 0.95,
+    "carbohydrate": 75.15,
+    "energy_kj": 492
+  },
+  {
+    "food_code": "O008",
+    "food_name": "Goat, liver",
+    "local_name": "Kaleji",
+    "protein_content": 20.32,
+    "total_fat": 4.88,
+    "total_dietary_fibre": 1.30,
+    "carbohydrate": 73.37,
+    "energy_kj": 526
+  },
+  {
+    "food_code": "O009",
+    "food_name": "Goat, tripe",
+    "local_name": "Ojhari",
+    "protein_content": 15.36,
+    "total_fat": 3.36,
+    "total_dietary_fibre": 0.23,
+    "carbohydrate": 80.94,
+    "energy_kj": 386
+  },
+  {
+    "food_code": "O010",
+    "food_name": "Goat, spleen",
+    "local_name": "Tilli",
+    "protein_content": 18.45,
+    "total_fat": 2.37,
+    "total_dietary_fibre": 1.15,
+    "carbohydrate": 77.93,
+    "energy_kj": 401
+  },
+  {
+    "food_code": "O011",
+    "food_name": "Goat, kidneys",
+    "local_name": "Gurda",
+    "protein_content": 15.60,
+    "total_fat": 2.93,
+    "total_dietary_fibre": 1.10,
+    "carbohydrate": 80.26,
+    "energy_kj": 374
+  },
+  {
+    "food_code": "O012",
+    "food_name": "Goat, tube (small intestine)",
+    "local_name": "Aant",
+    "protein_content": 12.92,
+    "total_fat": 8.26,
+    "total_dietary_fibre": 0.54,
+    "carbohydrate": 78.12,
+    "energy_kj": 525
+  },
+  {
+    "food_code": "O013",
+    "food_name": "Goat, testis",
+    "local_name": "Kapoora",
+    "protein_content": 12.32,
+    "total_fat": 2.39,
+    "total_dietary_fibre": 0.87,
+    "carbohydrate": 84.29,
+    "energy_kj": 298
+  },
+  {
+    "food_code": "O014",
+    "food_name": "Sheep, shoulder",
+    "local_name": "Bhed ka kandha",
+    "protein_content": 18.24,
+    "total_fat": 14.31,
+    "total_dietary_fibre": 0.86,
+    "carbohydrate": 66.51,
+    "energy_kj": 840
+  },
+  {
+    "food_code": "O015",
+    "food_name": "Sheep, chops",
+    "local_name": "Bhed ki chaap",
+    "protein_content": 18.00,
+    "total_fat": 5.15,
+    "total_dietary_fibre": 1.09,
+    "carbohydrate": 75.66,
+    "energy_kj": 496
+  },
+  {
+    "food_code": "O016",
+    "food_name": "Sheep, leg",
+    "local_name": "Bhed ki raan",
+    "protein_content": 21.42,
+    "total_fat": 8.69,
+    "total_dietary_fibre": 0.94,
+    "carbohydrate": 68.26,
+    "energy_kj": 686
+  },
+  {
+    "food_code": "O017",
+    "food_name": "Sheep, brain",
+    "local_name": "Bhed ka bheja",
+    "protein_content": 13.05,
+    "total_fat": 7.29,
+    "total_dietary_fibre": 1.19,
+    "carbohydrate": 78.36,
+    "energy_kj": 492
+  },
+  {
+    "food_code": "O018",
+    "food_name": "Sheep, tongue",
+    "local_name": "Bhed ki zubaan",
+    "protein_content": 16.61,
+    "total_fat": 13.53,
+    "total_dietary_fibre": 1.06,
+    "carbohydrate": 68.70,
+    "energy_kj": 783
+  },
+  {
+    "food_code": "O019",
+    "food_name": "Sheep, lungs",
+    "local_name": "Bhed ka phepda",
+    "protein_content": 16.12,
+    "total_fat": 2.41,
+    "total_dietary_fibre": 0.97,
+    "carbohydrate": 80.41,
+    "energy_kj": 363
+  },
+  {
+    "food_code": "O020",
+    "food_name": "Sheep, heart",
+    "local_name": "Bhed ka dil",
+    "protein_content": 18.19,
+    "total_fat": 3.66,
+    "total_dietary_fibre": 0.97,
+    "carbohydrate": 77.06,
+    "energy_kj": 445
+  },
+  {
+    "food_code": "O021",
+    "food_name": "Sheep, liver",
+    "local_name": "Bhed ki kaleji",
+    "protein_content": 22.26,
+    "total_fat": 4.87,
+    "total_dietary_fibre": 1.26,
+    "carbohydrate": 69.71,
+    "energy_kj": 559
+  },
+  {
+    "food_code": "O022",
+    "food_name": "Sheep, tripe",
+    "local_name": "Bhed ki ojhari",
+    "protein_content": 16.76,
+    "total_fat": 4.05,
+    "total_dietary_fibre": 0.26,
+    "carbohydrate": 78.81,
+    "energy_kj": 435
+  },
+  {
+    "food_code": "O023",
+    "food_name": "Sheep, spleen",
+    "local_name": "Bhed ki tilli",
+    "protein_content": 16.02,
+    "total_fat": 3.02,
+    "total_dietary_fibre": 1.17,
+    "carbohydrate": 79.66,
+    "energy_kj": 384
+  },
+  {
+    "food_code": "O024",
+    "food_name": "Sheep, kidneys",
+    "local_name": "Bhed ka gurda",
+    "protein_content": 16.22,
+    "total_fat": 2.92,
+    "total_dietary_fibre": 1.00,
+    "carbohydrate": 79.77,
+    "energy_kj": 384
+  },
+  {
+    "food_code": "O025",
+    "food_name": "Beef, shoulder",
+    "local_name": "Bade ka kandha",
+    "protein_content": 20.56,
+    "total_fat": 14.59,
+    "total_dietary_fibre": 0.95,
+    "carbohydrate": 63.84,
+    "energy_kj": 889
+  },
+  {
+    "food_code": "O026",
+    "food_name": "Beef, chops",
+    "local_name": "Bade ki chaap",
+    "protein_content": 19.82,
+    "total_fat": 6.71,
+    "total_dietary_fibre": 0.96,
+    "carbohydrate": 72.40,
+    "energy_kj": 585
+  },
+  {
+    "food_code": "O027",
+    "food_name": "Beef, round (leg)",
+    "local_name": "Bade ki raan",
+    "protein_content": 22.64,
+    "total_fat": 7.38,
+    "total_dietary_fibre": 1.19,
+    "carbohydrate": 68.04,
+    "energy_kj": 658
+  },
+  {
+    "food_code": "O028",
+    "food_name": "Beef, brain",
+    "local_name": "Bade ka bheja",
+    "protein_content": 10.55,
+    "total_fat": 9.28,
+    "total_dietary_fibre": 1.37,
+    "carbohydrate": 78.71,
+    "energy_kj": 523
+  },
+  {
+    "food_code": "O029",
+    "food_name": "Beef, tongue",
+    "local_name": "Bade ki zubaan",
+    "protein_content": 15.63,
+    "total_fat": 12.57,
+    "total_dietary_fibre": 0.73,
+    "carbohydrate": 70.97,
+    "energy_kj": 731
+  },
+  {
+    "food_code": "O030",
+    "food_name": "Beef, lungs",
+    "local_name": "Bade ka phepda",
+    "protein_content": 15.66,
+    "total_fat": 2.28,
+    "total_dietary_fibre": 1.13,
+    "carbohydrate": 80.83,
+    "energy_kj": 351
+  },
+  {
+    "food_code": "O031",
+    "food_name": "Beef, heart",
+    "local_name": "Bade ka dil",
+    "protein_content": 17.68,
+    "total_fat": 3.57,
+    "total_dietary_fibre": 0.87,
+    "carbohydrate": 77.77,
+    "energy_kj": 433
+  },
+  {
+    "food_code": "O032",
+    "food_name": "Beef, liver",
+    "local_name": "Bade ki kaleji",
+    "protein_content": 20.73,
+    "total_fat": 3.96,
+    "total_dietary_fibre": 1.07,
+    "carbohydrate": 74.15,
+    "energy_kj": 499
+  },
+  {
+    "food_code": "O033",
+    "food_name": "Beef, tripe",
+    "local_name": "Bade ki ojhari",
+    "protein_content": 13.10,
+    "total_fat": 2.51,
+    "total_dietary_fibre": 0.55,
+    "carbohydrate": 83.74,
+    "energy_kj": 316
+  },
+  {
+    "food_code": "O034",
+    "food_name": "Beef, spleen",
+    "local_name": "Bade ki tilli",
+    "protein_content": 17.42,
+    "total_fat": 2.22,
+    "total_dietary_fibre": 1.22,
+    "carbohydrate": 79.03,
+    "energy_kj": 378
+  },
+  {
+    "food_code": "O035",
+    "food_name": "Beef, kidneys",
+    "local_name": "Bade ka gurda",
+    "protein_content": 17.09,
+    "total_fat": 4.01,
+    "total_dietary_fibre": 1.22,
+    "carbohydrate": 77.59,
+    "energy_kj": 439
+  },
+  {
+    "food_code": "O036",
+    "food_name": "Calf, shoulder",
+    "local_name": "Bachhiya ka kandha",
+    "protein_content": 20.98,
+    "total_fat": 7.47,
+    "total_dietary_fibre": 0.94,
+    "carbohydrate": 70.49,
+    "energy_kj": 633
+  },
+  {
+    "food_code": "O037",
+    "food_name": "Calf, chops",
+    "local_name": "Bachhiya ki chaap",
+    "protein_content": 22.47,
+    "total_fat": 3.85,
+    "total_dietary_fibre": 0.92,
+    "carbohydrate": 72.66,
+    "energy_kj": 524
+  },
+  {
+    "food_code": "O038",
+    "food_name": "Calf, round (leg)",
+    "local_name": "Bachhiya ki raan",
+    "protein_content": 21.10,
+    "total_fat": 6.92,
+    "total_dietary_fibre": 0.74,
+    "carbohydrate": 71.13,
+    "energy_kj": 615
+  },
+  {
+    "food_code": "O039",
+    "food_name": "Calf, brain",
+    "local_name": "Bachhiya ka bheja",
+    "protein_content": 9.84,
+    "total_fat": 7.60,
+    "total_dietary_fibre": 1.26,
+    "carbohydrate": 81.19,
+    "energy_kj": 448
+  },
+  {
+    "food_code": "O040",
+    "food_name": "Calf, tongue",
+    "local_name": "Bachhiya ki zubaan",
+    "protein_content": 17.78,
+    "total_fat": 11.76,
+    "total_dietary_fibre": 0.93,
+    "carbohydrate": 69.44,
+    "energy_kj": 737
+  },
+  {
+    "food_code": "O041",
+    "food_name": "Calf, heart",
+    "local_name": "Bachhiya ka dil",
+    "protein_content": 18.84,
+    "total_fat": 3.75,
+    "total_dietary_fibre": 0.86,
+    "carbohydrate": 73.44,
+    "energy_kj": 459
+  },
+  {
+    "food_code": "O042",
+    "food_name": "Calf, liver",
+    "local_name": "Bachhiya ki kaleji",
+    "protein_content": 21.02,
+    "total_fat": 3.95,
+    "total_dietary_fibre": 1.26,
+    "carbohydrate": 73.66,
+    "energy_kj": 503
+  },
+  {
+    "food_code": "O043",
+    "food_name": "Calf, spleen",
+    "local_name": "Bachhiya ki tilli",
+    "protein_content": 17.71,
+    "total_fat": 2.12,
+    "total_dietary_fibre": 1.41,
+    "carbohydrate": 78.65,
+    "energy_kj": 379
+  },
+  {
+    "food_code": "O044",
+    "food_name": "Calf, kidneys",
+    "local_name": "Bachhiya ka gurda",
+    "protein_content": 15.16,
+    "total_fat": 3.50,
+    "total_dietary_fibre": 1.02,
+    "carbohydrate": 80.23,
+    "energy_kj": 387
+  },
+  {
+    "food_code": "O045",
+    "food_name": "Mithun, shoulder",
+    "local_name": null,
+    "protein_content": 19.05,
+    "total_fat": 11.14,
+    "total_dietary_fibre": 0.84,
+    "carbohydrate": 68.86,
+    "energy_kj": 736
+  },
+  {
+    "food_code": "O046",
+    "food_name": "Mithun, chops",
+    "local_name": null,
+    "protein_content": 18.19,
+    "total_fat": 6.12,
+    "total_dietary_fibre": 0.79,
+    "carbohydrate": 73.81,
+    "energy_kj": 536
+  },
+  {
+    "food_code": "O047",
+    "food_name": "Mithun, round (leg)",
+    "local_name": null,
+    "protein_content": 19.61,
+    "total_fat": 4.10,
+    "total_dietary_fibre": 0.90,
+    "carbohydrate": 72.25,
+    "energy_kj": 485
+  },
+  {
+    "food_code": "O048",
+    "food_name": "Pork, shoulder",
+    "local_name": "Suar ka kandha",
+    "protein_content": 17.41,
+    "total_fat": 18.83,
+    "total_dietary_fibre": 0.75,
+    "carbohydrate": 62.92,
+    "energy_kj": 993
+  },
+  {
+    "food_code": "O049",
+    "food_name": "Pork, chops",
+    "local_name": "Suar ki chaap",
+    "protein_content": 19.41,
+    "total_fat": 11.30,
+    "total_dietary_fibre": 0.64,
+    "carbohydrate": 68.40,
+    "energy_kj": 748
+  },
+  {
+    "food_code": "O050",
+    "food_name": "Pork, ham",
+    "local_name": "Suar ki raan",
+    "protein_content": 18.83,
+    "total_fat": 18.55,
+    "total_dietary_fibre": 0.62,
+    "carbohydrate": 61.94,
+    "energy_kj": 1006
+  },
+  {
+    "food_code": "O051",
+    "food_name": "Pork, lungs",
+    "local_name": "Suar ka phepda",
+    "protein_content": 15.13,
+    "total_fat": 2.74,
+    "total_dietary_fibre": 0.93,
+    "carbohydrate": 81.12,
+    "energy_kj": 358
+  },
+  {
+    "food_code": "O052",
+    "food_name": "Pork, heart",
+    "local_name": "Suar ka dil",
+    "protein_content": 16.31,
+    "total_fat": 4.87,
+    "total_dietary_fibre": 1.01,
+    "carbohydrate": 77.74,
+    "energy_kj": 457
+  },
+  {
+    "food_code": "O053",
+    "food_name": "Pork, liver",
+    "local_name": "Suar ki kaleji",
+    "protein_content": 19.89,
+    "total_fat": 3.94,
+    "total_dietary_fibre": 1.18,
+    "carbohydrate": 74.88,
+    "energy_kj": 484
+  },
+  {
+    "food_code": "O054",
+    "food_name": "Pork, stomach",
+    "local_name": "Suar ka pet",
+    "protein_content": 15.36,
+    "total_fat": 7.81,
+    "total_dietary_fibre": 0.23,
+    "carbohydrate": 76.51,
+    "energy_kj": 550
+  },
+  {
+    "food_code": "O055",
+    "food_name": "Pork, spleen",
+    "local_name": "Suar ki tilli",
+    "protein_content": 15.13,
+    "total_fat": 2.71,
+    "total_dietary_fibre": 1.13,
+    "carbohydrate": 80.93,
+    "energy_kj": 357
+  },
+  {
+    "food_code": "O056",
+    "food_name": "Pork, kidneys",
+    "local_name": "Suar ka gurda",
+    "protein_content": 14.35,
+    "total_fat": 3.65,
+    "total_dietary_fibre": 0.97,
+    "carbohydrate": 80.92,
+    "energy_kj": 379
+  },
+  {
+    "food_code": "O057",
+    "food_name": "Pork, tube (small intestine)",
+    "local_name": "Suar ki aant",
+    "protein_content": 14.96,
+    "total_fat": 8.98,
+    "total_dietary_fibre": 0.55,
+    "carbohydrate": 75.42,
+    "energy_kj": 587
+  },
+  {
+    "food_code": "O058",
+    "food_name": "Hare, shoulder",
+    "local_name": "Khargosh ka kandha",
+    "protein_content": 21.13,
+    "total_fat": 6.58,
+    "total_dietary_fibre": 1.17,
+    "carbohydrate": 71.06,
+    "energy_kj": 603
+  },
+  {
+    "food_code": "O059",
+    "food_name": "Hare, chops",
+    "local_name": "Khargosh ki chaap",
+    "protein_content": 20.62,
+    "total_fat": 2.55,
+    "total_dietary_fibre": 1.27,
+    "carbohydrate": 75.47,
+    "energy_kj": 445
+  },
+  {
+    "food_code": "O060",
+    "food_name": "Hare, leg",
+    "local_name": "Khargosh ki raan",
+    "protein_content": 20.52,
+    "total_fat": 4.16,
+    "total_dietary_fibre": 1.26,
+    "carbohydrate": 73.00,
+    "energy_kj": 503
+  },
+  {
+    "food_code": "O061",
+    "food_name": "Rabbit, shoulder",
+    "local_name": "Khargosh ka kandha",
+    "protein_content": 20.01,
+    "total_fat": 7.96,
+    "total_dietary_fibre": 1.19,
+    "carbohydrate": 70.75,
+    "energy_kj": 635
+  },
+  {
+    "food_code": "O062",
+    "food_name": "Rabbit, chops",
+    "local_name": "Khargosh ki chaap",
+    "protein_content": 22.61,
+    "total_fat": 4.88,
+    "total_dietary_fibre": 1.35,
+    "carbohydrate": 71.03,
+    "energy_kj": 565
+  },
+  {
+    "food_code": "O063",
+    "food_name": "Rabbit, leg",
+    "local_name": "Khargosh ki raan",
+    "protein_content": 21.31,
+    "total_fat": 5.99,
+    "total_dietary_fibre": 1.26,
+    "carbohydrate": 70.33,
+    "energy_kj": 584
+  },
+  {
+    "food_code": "N001",
+    "food_name": "Chicken, poultry, leg, skinless",
+    "local_name": "Chicken leg",
+    "protein_content": 19.44,
+    "total_fat": 12.64,
+    "total_dietary_fibre": 1.14,
+    "carbohydrate": 67.61,
+    "energy_kj": 1605
+  },
+  {
+    "food_code": "N002",
+    "food_name": "Chicken, poultry, thigh, skinless",
+    "local_name": "Chicken thigh",
+    "protein_content": 18.18,
+    "total_fat": 14.23,
+    "total_dietary_fibre": 1.14,
+    "carbohydrate": 67.58,
+    "energy_kj": 836
+  },
+  {
+    "food_code": "N003",
+    "food_name": "Chicken, poultry, breast, skinless",
+    "local_name": "Chicken breast",
+    "protein_content": 21.81,
+    "total_fat": 9.00,
+    "total_dietary_fibre": 1.19,
+    "carbohydrate": 67.15,
+    "energy_kj": 704
+  },
+  {
+    "food_code": "N004",
+    "food_name": "Chicken, poultry, wing, skinless",
+    "local_name": "Chicken wing",
+    "protein_content": 17.42,
+    "total_fat": 13.81,
+    "total_dietary_fibre": 1.13,
+    "carbohydrate": 67.48,
+    "energy_kj": 807
+  },
+  {
+    "food_code": "N005",
+    "food_name": "Poultry, chicken, liver",
+    "local_name": "Chicken kaleji",
+    "protein_content": 21.57,
+    "total_fat": 4.08,
+    "total_dietary_fibre": 1.11,
+    "carbohydrate": 73.20,
+    "energy_kj": 518
+  },
+  {
+    "food_code": "N006",
+    "food_name": "Poultry, chicken, gizzard",
+    "local_name": "Chicken pota",
+    "protein_content": 18.22,
+    "total_fat": 2.07,
+    "total_dietary_fibre": 1.46,
+    "carbohydrate": 78.05,
+    "energy_kj": 386
+  },
+  {
+    "food_code": "N007",
+    "food_name": "Country hen, leg, with skin",
+    "local_name": "Desi murgi leg",
+    "protein_content": 17.01,
+    "total_fat": 11.73,
+    "total_dietary_fibre": 1.20,
+    "carbohydrate": 70.02,
+    "energy_kj": 723
+  },
+  {
+    "food_code": "N008",
+    "food_name": "Country hen, thigh, with skin",
+    "local_name": "Desi murgi thigh",
+    "protein_content": 18.29,
+    "total_fat": 12.82,
+    "total_dietary_fibre": 1.23,
+    "carbohydrate": 67.46,
+    "energy_kj": 785
+  },
+  {
+    "food_code": "N009",
+    "food_name": "Country hen, breast, with skin",
+    "local_name": "Desi murgi breast",
+    "protein_content": 22.08,
+    "total_fat": 10.20,
+    "total_dietary_fibre": 1.14,
+    "carbohydrate": 66.53,
+    "energy_kj": 753
+  },
+  {
+    "food_code": "N010",
+    "food_name": "Country hen, wing, with skin",
+    "local_name": "Desi murgi wing",
+    "protein_content": 18.65,
+    "total_fat": 12.09,
+    "total_dietary_fibre": 1.14,
+    "carbohydrate": 68.01,
+    "energy_kj": 764
+  },
+  {
+    "food_code": "N011",
+    "food_name": "Duck, meat, with skin",
+    "local_name": "Batakh",
+    "protein_content": 19.07,
+    "total_fat": 6.03,
+    "total_dietary_fibre": 1.22,
+    "carbohydrate": 73.49,
+    "energy_kj": 547
+  },
+  {
+    "food_code": "N012",
+    "food_name": "Emu, meat, skinless",
+    "local_name": null,
+    "protein_content": 22.65,
+    "total_fat": 4.62,
+    "total_dietary_fibre": 0.98,
+    "carbohydrate": 71.65,
+    "energy_kj": 556
+  },
+  {
+    "food_code": "N013",
+    "food_name": "Guinea fowl, meat, with skin",
+    "local_name": null,
+    "protein_content": 20.52,
+    "total_fat": 3.24,
+    "total_dietary_fibre": 0.92,
+    "carbohydrate": 75.21,
+    "energy_kj": 469
+  },
+  {
+    "food_code": "N014",
+    "food_name": "Pigeon, meat, with skin",
+    "local_name": "Kabutar",
+    "protein_content": 17.94,
+    "total_fat": 6.03,
+    "total_dietary_fibre": 1.32,
+    "carbohydrate": 74.61,
+    "energy_kj": 528
+  },
+  {
+    "food_code": "N015",
+    "food_name": "Quail, meat, skinless",
+    "local_name": "Bater",
+    "protein_content": 20.92,
+    "total_fat": 5.95,
+    "total_dietary_fibre": 1.35,
+    "carbohydrate": 71.58,
+    "energy_kj": 576
+  },
+  {
+    "food_code": "N016",
+    "food_name": "Turkey, leg, with skin",
+    "local_name": "Turkey",
+    "protein_content": 20.30,
+    "total_fat": 8.15,
+    "total_dietary_fibre": 1.21,
+    "carbohydrate": 69.24,
+    "energy_kj": 647
+  },
+  {
+    "food_code": "N017",
+    "food_name": "Turkey, thigh, with skin",
+    "local_name": "Turkey",
+    "protein_content": 20.46,
+    "total_fat": 6.31,
+    "total_dietary_fibre": 0.97,
+    "carbohydrate": 72.17,
+    "energy_kj": 581
+  },
+  {
+    "food_code": "N018",
+    "food_name": "Turkey, breast, with skin",
+    "local_name": "Turkey",
+    "protein_content": 21.96,
+    "total_fat": 8.04,
+    "total_dietary_fibre": 1.01,
+    "carbohydrate": 68.44,
+    "energy_kj": 671
+  },
+  {
+    "food_code": "N019",
+    "food_name": "Turkey, wing, with skin",
+    "local_name": "Turkey",
+    "protein_content": 21.91,
+    "total_fat": 10.77,
+    "total_dietary_fibre": 0.97,
+    "carbohydrate": 66.16,
+    "energy_kj": 771
+  },
+  {
+    "food_code": "M001",
+    "food_name": "Egg, poultry, whole, raw",
+    "local_name": "Anda",
+    "protein_content": 13.28,
+    "total_fat": 9.15,
+    "total_dietary_fibre": 0.81,
+    "carbohydrate": 76.51,
+    "energy_kj": 564
+  },
+  {
+    "food_code": "M002",
+    "food_name": "Egg, poultry, white, raw",
+    "local_name": "Ande ki safedi",
+    "protein_content": 10.84,
+    "total_fat": 0.06,
+    "total_dietary_fibre": 0.75,
+    "carbohydrate": 86.68,
+    "energy_kj": 187
+  },
+  {
+    "food_code": "M003",
+    "food_name": "Egg, poultry, yolk, raw",
+    "local_name": "Ande ki zardi",
+    "protein_content": 15.74,
+    "total_fat": 26.34,
+    "total_dietary_fibre": 1.05,
+    "carbohydrate": 53.57,
+    "energy_kj": 1242
+  },
+  {
+    "food_code": "M004",
+    "food_name": "Egg, poultry, whole, boiled",
+    "local_name": "Ubla anda",
+    "protein_content": 13.43,
+    "total_fat": 10.54,
+    "total_dietary_fibre": 0.86,
+    "carbohydrate": 73.46,
+    "energy_kj": 618
+  },
+  {
+    "food_code": "M005",
+    "food_name": "Egg, poultry, white, boiled",
+    "local_name": "Ubla ande ki safedi",
+    "protein_content": 12.37,
+    "total_fat": 0.26,
+    "total_dietary_fibre": 0.81,
+    "carbohydrate": 83.54,
+    "energy_kj": 220
+  },
+  {
+    "food_code": "M006",
+    "food_name": "Egg, poultry, yolk, boiled",
+    "local_name": "Ubla ande ki zardi",
+    "protein_content": 16.13,
+    "total_fat": 27.46,
+    "total_dietary_fibre": 1.38,
+    "carbohydrate": 51.42,
+    "energy_kj": 1290
+  },
+  {
+    "food_code": "M007",
+    "food_name": "Egg, poultry, omlet",
+    "local_name": "Omelette",
+    "protein_content": 16.53,
+    "total_fat": 11.60,
+    "total_dietary_fibre": 0.96,
+    "carbohydrate": 68.48,
+    "energy_kj": 710
+  },
+  {
+    "food_code": "M008",
+    "food_name": "Egg, country hen, whole, raw",
+    "local_name": "Desi anda",
+    "protein_content": 13.14,
+    "total_fat": 13.00,
+    "total_dietary_fibre": 0.86,
+    "carbohydrate": 72.96,
+    "energy_kj": 704
+  },
+  {
+    "food_code": "M009",
+    "food_name": "Egg, country hen, whole, boiled",
+    "local_name": "Ubla desi anda",
+    "protein_content": 14.43,
+    "total_fat": 14.10,
+    "total_dietary_fibre": 0.94,
+    "carbohydrate": 70.43,
+    "energy_kj": 767
+  },
+  {
+    "food_code": "M010",
+    "food_name": "Egg, country hen, omlet",
+    "local_name": "Desi anda omelette",
+    "protein_content": 14.80,
+    "total_fat": 16.30,
+    "total_dietary_fibre": 1.08,
+    "carbohydrate": 67.80,
+    "energy_kj": 855
+  },
+  {
+    "food_code": "M011",
+    "food_name": "Egg, duck, whole, boiled",
+    "local_name": "Ubla batakh ka anda",
+    "protein_content": 13.80,
+    "total_fat": 13.61,
+    "total_dietary_fibre": 0.97,
+    "carbohydrate": 71.61,
+    "energy_kj": 738
+  },
+  {
+    "food_code": "M012",
+    "food_name": "Egg, duck, whole, raw",
+    "local_name": "Batakh ka anda",
+    "protein_content": 14.60,
+    "total_fat": 13.83,
+    "total_dietary_fibre": 0.99,
+    "carbohydrate": 70.53,
+    "energy_kj": 760
+  },
+  {
+    "food_code": "M013",
+    "food_name": "Egg, duck, whole, omlet",
+    "local_name": "Batakh ke ande ka omelette",
+    "protein_content": 15.10,
+    "total_fat": 14.80,
+    "total_dietary_fibre": 1.18,
+    "carbohydrate": 68.90,
+    "energy_kj": 804
+  },
+  {
+    "food_code": "M014",
+    "food_name": "Egg, quail, whole, raw",
+    "local_name": "Bater ka anda",
+    "protein_content": 12.39,
+    "total_fat": 11.46,
+    "total_dietary_fibre": 0.94,
+    "carbohydrate": 75.11,
+    "energy_kj": 635
+  },
+  {
+    "food_code": "M015",
+    "food_name": "Egg, quial, whole, boiled",
+    "local_name": "Ubla bater ka anda",
+    "protein_content": 13.03,
+    "total_fat": 11.50,
+    "total_dietary_fibre": 0.99,
+    "carbohydrate": 74.41,
+    "energy_kj": 647
+  },
+  {
+    "food_code": "L001",
+    "food_name": "Milk, whole, Buffalo",
+    "local_name": "Bhains ka doodh",
+    "protein_content": 3.68,
+    "total_fat": 6.58,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 8.39,
+    "energy_kj": 449
+  },
+  {
+    "food_code": "L002",
+    "food_name": "Milk, whole, Cow",
+    "local_name": "Gaay ka doodh",
+    "protein_content": 3.26,
+    "total_fat": 4.48,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 4.94,
+    "energy_kj": 305
+  },
+  {
+    "food_code": "L003",
+    "food_name": "Paneer",
+    "local_name": "Paneer",
+    "protein_content": 18.86,
+    "total_fat": 14.78,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 12.41,
+    "energy_kj": 1079
+  },
+  {
+    "food_code": "L004",
+    "food_name": "Khoa",
+    "local_name": "Khoya",
+    "protein_content": 16.34,
+    "total_fat": 20.62,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 16.53,
+    "energy_kj": 1322
+  },
+  {
+    "food_code": "K001",
+    "food_name": "Toddy",
+    "local_name": "Tadi",
+    "protein_content": 0.18,
+    "total_fat": 0.03,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 5.72,
+    "energy_kj": 101
+  },
+  {
+    "food_code": "K002",
+    "food_name": "Coconut Water",
+    "local_name": "Nariyal pani",
+    "protein_content": 0.26,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 3.16,
+    "energy_kj": 64
+  },
+  {
+    "food_code": "J001",
+    "food_name": "Button mushroom, fresh",
+    "local_name": "Button khumb",
+    "protein_content": 3.68,
+    "total_fat": 0.42,
+    "total_dietary_fibre": 3.11,
+    "carbohydrate": 1.98,
+    "energy_kj": 115
+  },
+  {
+    "food_code": "J002",
+    "food_name": "Chicken mushroom, fresh",
+    "local_name": "Khumb",
+    "protein_content": 1.84,
+    "total_fat": 0.25,
+    "total_dietary_fibre": 1.99,
+    "carbohydrate": 2.76,
+    "energy_kj": 89
+  },
+  {
+    "food_code": "J003",
+    "food_name": "Shiitake mushroom, fresh",
+    "local_name": "Shiitake khumb",
+    "protein_content": 3.19,
+    "total_fat": 0.76,
+    "total_dietary_fibre": 3.02,
+    "carbohydrate": 8.98,
+    "energy_kj": 243
+  },
+  {
+    "food_code": "J004",
+    "food_name": "Oyster mushroom, dried",
+    "local_name": "Sookhi dhingri",
+    "protein_content": 19.04,
+    "total_fat": 2.86,
+    "total_dietary_fibre": 39.12,
+    "carbohydrate": 33.07,
+    "energy_kj": 1019
+  },
+  {
+    "food_code": "I001",
+    "food_name": "Jaggery, cane",
+    "local_name": "Gud",
+    "protein_content": 1.85,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 84.87,
+    "energy_kj": 1480
+  },
+  {
+    "food_code": "I002",
+    "food_name": "Sugarcane, juice",
+    "local_name": "Ganne ka ras",
+    "protein_content": 0.16,
+    "total_fat": 0.40,
+    "total_dietary_fibre": 0.56,
+    "carbohydrate": 13.11,
+    "energy_kj": 242
+  },
+  {
+    "food_code": "H001",
+    "food_name": "Almond",
+    "local_name": "Badam",
+    "protein_content": 18.41,
+    "total_fat": 58.49,
+    "total_dietary_fibre": 13.06,
+    "carbohydrate": 3.04,
+    "energy_kj": 2549
+  },
+  {
+    "food_code": "H002",
+    "food_name": "Arecanut, dried, brown",
+    "local_name": "Sookhi supari",
+    "protein_content": 5.78,
+    "total_fat": 4.35,
+    "total_dietary_fibre": 11.44,
+    "carbohydrate": 70.42,
+    "energy_kj": 1467
+  },
+  {
+    "food_code": "H003",
+    "food_name": "Arecanut, dried, red color",
+    "local_name": "Lal supari",
+    "protein_content": 6.46,
+    "total_fat": 4.46,
+    "total_dietary_fibre": 11.11,
+    "carbohydrate": 70.27,
+    "energy_kj": 1477
+  },
+  {
+    "food_code": "H004",
+    "food_name": "Arecanut, fresh",
+    "local_name": "Kachi supari",
+    "protein_content": 2.73,
+    "total_fat": 5.51,
+    "total_dietary_fibre": 7.63,
+    "carbohydrate": 45.00,
+    "energy_kj": 1024
+  },
+  {
+    "food_code": "H005",
+    "food_name": "Cashew nut",
+    "local_name": "Kaju",
+    "protein_content": 18.78,
+    "total_fat": 45.20,
+    "total_dietary_fibre": 3.86,
+    "carbohydrate": 25.46,
+    "energy_kj": 2438
+  },
+  {
+    "food_code": "H006",
+    "food_name": "Coconut, kernal, dry",
+    "local_name": "Sookha nariyal / Gola",
+    "protein_content": 7.27,
+    "total_fat": 63.26,
+    "total_dietary_fibre": 15.88,
+    "carbohydrate": 8.01,
+    "energy_kj": 2611
+  },
+  {
+    "food_code": "H007",
+    "food_name": "Coconut, kernel, fresh",
+    "local_name": "Taza nariyal",
+    "protein_content": 3.84,
+    "total_fat": 41.38,
+    "total_dietary_fibre": 10.42,
+    "carbohydrate": 6.30,
+    "energy_kj": 1711
+  },
+  {
+    "food_code": "H008",
+    "food_name": "Garden cress, seeds",
+    "local_name": "Halim beej / Chandrasur",
+    "protein_content": 23.36,
+    "total_fat": 23.74,
+    "total_dietary_fibre": 8.27,
+    "carbohydrate": 33.66,
+    "energy_kj": 1863
+  },
+  {
+    "food_code": "H009",
+    "food_name": "Gingelly seeds, black",
+    "local_name": "Kala til",
+    "protein_content": 19.17,
+    "total_fat": 43.10,
+    "total_dietary_fibre": 17.16,
+    "carbohydrate": 10.29,
+    "energy_kj": 2124
+  },
+  {
+    "food_code": "H010",
+    "food_name": "Gingelly seeds, brown",
+    "local_name": "Bhoora til",
+    "protein_content": 21.61,
+    "total_fat": 43.22,
+    "total_dietary_fibre": 17.21,
+    "carbohydrate": 9.76,
+    "energy_kj": 2161
+  },
+  {
+    "food_code": "H011",
+    "food_name": "Gingelly seeds, white",
+    "local_name": "Safed til",
+    "protein_content": 21.70,
+    "total_fat": 43.05,
+    "total_dietary_fibre": 16.99,
+    "carbohydrate": 10.83,
+    "energy_kj": 2174
+  },
+  {
+    "food_code": "H012",
+    "food_name": "Ground nut",
+    "local_name": "Moongphali",
+    "protein_content": 23.65,
+    "total_fat": 39.63,
+    "total_dietary_fibre": 10.38,
+    "carbohydrate": 17.27,
+    "energy_kj": 2176
+  },
+  {
+    "food_code": "H013",
+    "food_name": "Mustard seeds",
+    "local_name": "Sarson / Rai",
+    "protein_content": 19.51,
+    "total_fat": 40.19,
+    "total_dietary_fibre": 14.10,
+    "carbohydrate": 16.80,
+    "energy_kj": 2132
+  },
+  {
+    "food_code": "H014",
+    "food_name": "Linseeds",
+    "local_name": "Alsi",
+    "protein_content": 18.55,
+    "total_fat": 35.67,
+    "total_dietary_fibre": 26.17,
+    "carbohydrate": 10.99,
+    "energy_kj": 1857
+  },
+  {
+    "food_code": "H015",
+    "food_name": "Niger seeds, black",
+    "local_name": "Kala ramtil",
+    "protein_content": 18.92,
+    "total_fat": 38.61,
+    "total_dietary_fibre": 10.93,
+    "carbohydrate": 22.98,
+    "energy_kj": 2144
+  },
+  {
+    "food_code": "H016",
+    "food_name": "Niger seeds, gray",
+    "local_name": "Ramtil",
+    "protein_content": 18.34,
+    "total_fat": 39.53,
+    "total_dietary_fibre": 10.96,
+    "carbohydrate": 20.59,
+    "energy_kj": 2128
+  },
+  {
+    "food_code": "H017",
+    "food_name": "Pine seed",
+    "local_name": "Chilgoza",
+    "protein_content": 12.55,
+    "total_fat": 48.79,
+    "total_dietary_fibre": 3.79,
+    "carbohydrate": 26.77,
+    "energy_kj": 2486
+  },
+  {
+    "food_code": "H018",
+    "food_name": "Pistachio nuts",
+    "local_name": "Pista",
+    "protein_content": 23.35,
+    "total_fat": 42.49,
+    "total_dietary_fibre": 10.64,
+    "carbohydrate": 15.82,
+    "energy_kj": 2257
+  },
+  {
+    "food_code": "H019",
+    "food_name": "Safflower seeds",
+    "local_name": "Kusum beej",
+    "protein_content": 17.66,
+    "total_fat": 30.87,
+    "total_dietary_fibre": 13.49,
+    "carbohydrate": 30.18,
+    "energy_kj": 1981
+  },
+  {
+    "food_code": "H020",
+    "food_name": "Sunflower seeds",
+    "local_name": "Surajmukhi ke beej",
+    "protein_content": 23.53,
+    "total_fat": 51.85,
+    "total_dietary_fibre": 10.80,
+    "carbohydrate": 6.85,
+    "energy_kj": 2453
+  },
+  {
+    "food_code": "H021",
+    "food_name": "Walnut",
+    "local_name": "Akhrot",
+    "protein_content": 14.92,
+    "total_fat": 64.27,
+    "total_dietary_fibre": 5.39,
+    "carbohydrate": 10.14,
+    "energy_kj": 2809
+  },
+  {
+    "food_code": "G008",
+    "food_name": "Chillies, green - generic",
+    "local_name": "Hari mirch",
+    "protein_content": 2.36,
+    "total_fat": 0.72,
+    "total_dietary_fibre": 4.77,
+    "carbohydrate": 5.86,
+    "energy_kj": 177
+  },
+  {
+    "food_code": "G009",
+    "food_name": "Coriander leaves",
+    "local_name": "Hara dhaniya",
+    "protein_content": 3.52,
+    "total_fat": 0.70,
+    "total_dietary_fibre": 4.66,
+    "carbohydrate": 1.93,
+    "energy_kj": 130
+  },
+  {
+    "food_code": "G010",
+    "food_name": "Curry leaves",
+    "local_name": "Kadi patta",
+    "protein_content": 7.41,
+    "total_fat": 1.06,
+    "total_dietary_fibre": 16.83,
+    "carbohydrate": 4.51,
+    "energy_kj": 266
+  },
+  {
+    "food_code": "G011",
+    "food_name": "Garlic, big clove",
+    "local_name": "Bada lehsun",
+    "protein_content": 6.92,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 5.22,
+    "carbohydrate": 21.93,
+    "energy_kj": 518
+  },
+  {
+    "food_code": "G012",
+    "food_name": "Garlic, small clove",
+    "local_name": "Chhota lehsun",
+    "protein_content": 6.75,
+    "total_fat": 0.14,
+    "total_dietary_fibre": 5.47,
+    "carbohydrate": 21.84,
+    "energy_kj": 514
+  },
+  {
+    "food_code": "G013",
+    "food_name": "Garlic, single clove, Kashmir",
+    "local_name": "Kashmiri ek kali lehsun",
+    "protein_content": 6.12,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 4.01,
+    "carbohydrate": 23.46,
+    "energy_kj": 523
+  },
+  {
+    "food_code": "G014",
+    "food_name": "Ginger, fresh",
+    "local_name": "Taza adrak",
+    "protein_content": 2.22,
+    "total_fat": 0.85,
+    "total_dietary_fibre": 5.36,
+    "carbohydrate": 8.97,
+    "energy_kj": 230
+  },
+  {
+    "food_code": "G015",
+    "food_name": "Mango ginger",
+    "local_name": "Aama adrak",
+    "protein_content": 1.45,
+    "total_fat": 0.70,
+    "total_dietary_fibre": 4.74,
+    "carbohydrate": 6.98,
+    "energy_kj": 177
+  },
+  {
+    "food_code": "G016",
+    "food_name": "Mint leaves",
+    "local_name": "Pudina",
+    "protein_content": 4.66,
+    "total_fat": 0.65,
+    "total_dietary_fibre": 5.89,
+    "carbohydrate": 2.39,
+    "energy_kj": 155
+  },
+  {
+    "food_code": "G017",
+    "food_name": "Onion, big",
+    "local_name": "Bada pyaz",
+    "protein_content": 1.50,
+    "total_fat": 0.24,
+    "total_dietary_fibre": 2.45,
+    "carbohydrate": 9.56,
+    "energy_kj": 201
+  },
+  {
+    "food_code": "G018",
+    "food_name": "Onion, small",
+    "local_name": "Chhota pyaz",
+    "protein_content": 1.82,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 1.16,
+    "carbohydrate": 11.58,
+    "energy_kj": 237
+  },
+  {
+    "food_code": "G019",
+    "food_name": "Asafoetida",
+    "local_name": "Hing",
+    "protein_content": 6.34,
+    "total_fat": 1.26,
+    "total_dietary_fibre": 5.13,
+    "carbohydrate": 71.95,
+    "energy_kj": 1387
+  },
+  {
+    "food_code": "G020",
+    "food_name": "Cardamom, green",
+    "local_name": "Chhoti elaichi",
+    "protein_content": 8.10,
+    "total_fat": 2.60,
+    "total_dietary_fibre": 23.10,
+    "carbohydrate": 47.76,
+    "energy_kj": 1067
+  },
+  {
+    "food_code": "G021",
+    "food_name": "Cardamom, black",
+    "local_name": "Badi elaichi",
+    "protein_content": 6.69,
+    "total_fat": 2.80,
+    "total_dietary_fibre": 23.46,
+    "carbohydrate": 52.53,
+    "energy_kj": 1132
+  },
+  {
+    "food_code": "G022",
+    "food_name": "Chillies, red",
+    "local_name": "Lal mirch",
+    "protein_content": 12.69,
+    "total_fat": 6.40,
+    "total_dietary_fibre": 31.15,
+    "carbohydrate": 29.46,
+    "energy_kj": 990
+  },
+  {
+    "food_code": "G023",
+    "food_name": "Cloves",
+    "local_name": "Laung",
+    "protein_content": 5.86,
+    "total_fat": 8.41,
+    "total_dietary_fibre": 34.52,
+    "carbohydrate": 18.73,
+    "energy_kj": 781
+  },
+  {
+    "food_code": "G024",
+    "food_name": "Coriander seeds",
+    "local_name": "Dhaniya",
+    "protein_content": 10.66,
+    "total_fat": 17.47,
+    "total_dietary_fibre": 44.81,
+    "carbohydrate": 12.98,
+    "energy_kj": 1125
+  },
+  {
+    "food_code": "G025",
+    "food_name": "Cumin seeds",
+    "local_name": "Jeera",
+    "protein_content": 13.91,
+    "total_fat": 16.64,
+    "total_dietary_fibre": 30.35,
+    "carbohydrate": 22.62,
+    "energy_kj": 1274
+  },
+  {
+    "food_code": "G026",
+    "food_name": "Fenugreek seeds",
+    "local_name": "Methi dana",
+    "protein_content": 25.41,
+    "total_fat": 5.72,
+    "total_dietary_fibre": 47.55,
+    "carbohydrate": 10.57,
+    "energy_kj": 983
+  },
+  {
+    "food_code": "G027",
+    "food_name": "Mace",
+    "local_name": "Javitri",
+    "protein_content": 6.24,
+    "total_fat": 24.41,
+    "total_dietary_fibre": 20.31,
+    "carbohydrate": 26.51,
+    "energy_kj": 1488
+  },
+  {
+    "food_code": "G028",
+    "food_name": "Nutmeg",
+    "local_name": "Jaiphal",
+    "protein_content": 6.30,
+    "total_fat": 36.52,
+    "total_dietary_fibre": 11.99,
+    "carbohydrate": 27.64,
+    "energy_kj": 1940
+  },
+  {
+    "food_code": "G029",
+    "food_name": "Omum",
+    "local_name": "Ajwain",
+    "protein_content": 15.89,
+    "total_fat": 21.11,
+    "total_dietary_fibre": 20.58,
+    "carbohydrate": 24.53,
+    "energy_kj": 1495
+  },
+  {
+    "food_code": "G030",
+    "food_name": "Pippali",
+    "local_name": "Pippali / Badi pipal",
+    "protein_content": 10.53,
+    "total_fat": 2.27,
+    "total_dietary_fibre": 34.14,
+    "carbohydrate": 35.70,
+    "energy_kj": 906
+  },
+  {
+    "food_code": "G031",
+    "food_name": "Pepper, black",
+    "local_name": "Kali mirch",
+    "protein_content": 10.12,
+    "total_fat": 2.74,
+    "total_dietary_fibre": 33.16,
+    "carbohydrate": 36.22,
+    "energy_kj": 910
+  },
+  {
+    "food_code": "G032",
+    "food_name": "Poppy seeds",
+    "local_name": "Khas khas",
+    "protein_content": 20.31,
+    "total_fat": 30.38,
+    "total_dietary_fibre": 26.68,
+    "carbohydrate": 12.37,
+    "energy_kj": 1768
+  },
+  {
+    "food_code": "G033",
+    "food_name": "Turmeric powder",
+    "local_name": "Haldi",
+    "protein_content": 7.66,
+    "total_fat": 5.03,
+    "total_dietary_fibre": 21.38,
+    "carbohydrate": 49.22,
+    "energy_kj": 1174
+  },
+  {
+    "food_code": "F001",
+    "food_name": "Beet root",
+    "local_name": "Chukandar",
+    "protein_content": 1.95,
+    "total_fat": 0.14,
+    "total_dietary_fibre": 3.31,
+    "carbohydrate": 6.18,
+    "energy_kj": 149
+  },
+  {
+    "food_code": "F002",
+    "food_name": "Carrot, orange",
+    "local_name": "Gajar",
+    "protein_content": 0.95,
+    "total_fat": 0.47,
+    "total_dietary_fibre": 4.18,
+    "carbohydrate": 5.55,
+    "energy_kj": 139
+  },
+  {
+    "food_code": "F003",
+    "food_name": "Carrot, red",
+    "local_name": "Lal gajar",
+    "protein_content": 1.04,
+    "total_fat": 0.47,
+    "total_dietary_fibre": 4.49,
+    "carbohydrate": 6.71,
+    "energy_kj": 160
+  },
+  {
+    "food_code": "F004",
+    "food_name": "Colocasia",
+    "local_name": "Arbi",
+    "protein_content": 3.31,
+    "total_fat": 0.17,
+    "total_dietary_fibre": 3.22,
+    "carbohydrate": 17.85,
+    "energy_kj": 372
+  },
+  {
+    "food_code": "F005",
+    "food_name": "Lotus root",
+    "local_name": "Kamal kakdi",
+    "protein_content": 1.94,
+    "total_fat": 0.93,
+    "total_dietary_fibre": 4.70,
+    "carbohydrate": 14.67,
+    "energy_kj": 332
+  },
+  {
+    "food_code": "F006",
+    "food_name": "Potato, brown skin, big",
+    "local_name": "Bada aaloo",
+    "protein_content": 1.54,
+    "total_fat": 0.23,
+    "total_dietary_fibre": 1.71,
+    "carbohydrate": 14.89,
+    "energy_kj": 292
+  },
+  {
+    "food_code": "F007",
+    "food_name": "Potato, brown skin, small",
+    "local_name": "Chhota aaloo",
+    "protein_content": 1.35,
+    "total_fat": 0.22,
+    "total_dietary_fibre": 1.69,
+    "carbohydrate": 12.90,
+    "energy_kj": 255
+  },
+  {
+    "food_code": "F008",
+    "food_name": "Potato, red skin",
+    "local_name": "Lal aaloo",
+    "protein_content": 1.83,
+    "total_fat": 0.22,
+    "total_dietary_fibre": 1.68,
+    "carbohydrate": 15.43,
+    "energy_kj": 306
+  },
+  {
+    "food_code": "F009",
+    "food_name": "Radish, elongate, red skin",
+    "local_name": "Lal mooli",
+    "protein_content": 0.67,
+    "total_fat": 0.13,
+    "total_dietary_fibre": 2.46,
+    "carbohydrate": 6.71,
+    "energy_kj": 134
+  },
+  {
+    "food_code": "F010",
+    "food_name": "Radish, elongate, white skin",
+    "local_name": "Safed mooli",
+    "protein_content": 0.77,
+    "total_fat": 0.15,
+    "total_dietary_fibre": 2.65,
+    "carbohydrate": 6.56,
+    "energy_kj": 135
+  },
+  {
+    "food_code": "F011",
+    "food_name": "Radish, round, red skin",
+    "local_name": "Gol lal mooli",
+    "protein_content": 0.89,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 2.29,
+    "carbohydrate": 6.07,
+    "energy_kj": 130
+  },
+  {
+    "food_code": "F012",
+    "food_name": "Radish, round, white skin",
+    "local_name": "Gol safed mooli",
+    "protein_content": 0.80,
+    "total_fat": 0.14,
+    "total_dietary_fibre": 2.37,
+    "carbohydrate": 6.13,
+    "energy_kj": 129
+  },
+  {
+    "food_code": "F013",
+    "food_name": "Sweet potato, brown skin",
+    "local_name": "Shakarkand",
+    "protein_content": 1.33,
+    "total_fat": 0.26,
+    "total_dietary_fibre": 3.99,
+    "carbohydrate": 24.25,
+    "energy_kj": 456
+  },
+  {
+    "food_code": "F014",
+    "food_name": "Sweet potato, pink skin",
+    "local_name": "Shakarkandi",
+    "protein_content": 1.27,
+    "total_fat": 0.33,
+    "total_dietary_fibre": 3.94,
+    "carbohydrate": 23.93,
+    "energy_kj": 452
+  },
+  {
+    "food_code": "F015",
+    "food_name": "Tapioca",
+    "local_name": "Kappa / Shimla aloo",
+    "protein_content": 1.03,
+    "total_fat": 0.20,
+    "total_dietary_fibre": 4.61,
+    "carbohydrate": 17.81,
+    "energy_kj": 334
+  },
+  {
+    "food_code": "F016",
+    "food_name": "Water Chestnut",
+    "local_name": "Singhara",
+    "protein_content": 0.86,
+    "total_fat": 0.37,
+    "total_dietary_fibre": 3.02,
+    "carbohydrate": 21.46,
+    "energy_kj": 400
+  },
+  {
+    "food_code": "F017",
+    "food_name": "Yam, elephant",
+    "local_name": "Jimikand / Suran",
+    "protein_content": 2.56,
+    "total_fat": 0.14,
+    "total_dietary_fibre": 4.17,
+    "carbohydrate": 17.46,
+    "energy_kj": 353
+  },
+  {
+    "food_code": "F018",
+    "food_name": "Yam, ordinary",
+    "local_name": "Suran",
+    "protein_content": 2.18,
+    "total_fat": 0.17,
+    "total_dietary_fibre": 4.08,
+    "carbohydrate": 17.65,
+    "energy_kj": 349
+  },
+  {
+    "food_code": "F019",
+    "food_name": "Yam, wild",
+    "local_name": "Jangli suran",
+    "protein_content": 3.07,
+    "total_fat": 0.30,
+    "total_dietary_fibre": 4.57,
+    "carbohydrate": 20.95,
+    "energy_kj": 430
+  },
+  {
+    "food_code": "E001",
+    "food_name": "Apple, big",
+    "local_name": "Bada seb",
+    "protein_content": 0.29,
+    "total_fat": 0.64,
+    "total_dietary_fibre": 2.59,
+    "carbohydrate": 13.11,
+    "energy_kj": 261
+  },
+  {
+    "food_code": "E002",
+    "food_name": "Apple, green",
+    "local_name": "Hara seb",
+    "protein_content": 0.46,
+    "total_fat": 0.50,
+    "total_dietary_fibre": 2.54,
+    "carbohydrate": 10.65,
+    "energy_kj": 214
+  },
+  {
+    "food_code": "E003",
+    "food_name": "Apple, small",
+    "local_name": "Chhota seb",
+    "protein_content": 0.31,
+    "total_fat": 0.53,
+    "total_dietary_fibre": 2.06,
+    "carbohydrate": 13.95,
+    "energy_kj": 267
+  },
+  {
+    "food_code": "E004",
+    "food_name": "Apple, small, Kashmir",
+    "local_name": "Kashmiri seb",
+    "protein_content": 0.27,
+    "total_fat": 0.60,
+    "total_dietary_fibre": 2.07,
+    "carbohydrate": 13.99,
+    "energy_kj": 269
+  },
+  {
+    "food_code": "E005",
+    "food_name": "Apricot, dried",
+    "local_name": "Sookhi khubani",
+    "protein_content": 3.17,
+    "total_fat": 0.74,
+    "total_dietary_fibre": 3.32,
+    "carbohydrate": 72.63,
+    "energy_kj": 1321
+  },
+  {
+    "food_code": "E006",
+    "food_name": "Apricot, processed",
+    "local_name": "Khubani",
+    "protein_content": 1.47,
+    "total_fat": 0.64,
+    "total_dietary_fibre": 0.59,
+    "carbohydrate": 10.93,
+    "energy_kj": 236
+  },
+  {
+    "food_code": "E007",
+    "food_name": "Avocado fruit",
+    "local_name": "Makhan phal",
+    "protein_content": 2.95,
+    "total_fat": 13.86,
+    "total_dietary_fibre": 6.69,
+    "carbohydrate": 1.75,
+    "energy_kj": 604
+  },
+  {
+    "food_code": "E008",
+    "food_name": "Bael fruit",
+    "local_name": "Bel",
+    "protein_content": 2.63,
+    "total_fat": 0.57,
+    "total_dietary_fibre": 6.31,
+    "carbohydrate": 28.21,
+    "energy_kj": 569
+  },
+  {
+    "food_code": "E009",
+    "food_name": "Banana, ripe, montham",
+    "local_name": "Kela",
+    "protein_content": 1.25,
+    "total_fat": 0.32,
+    "total_dietary_fibre": 2.21,
+    "carbohydrate": 24.95,
+    "energy_kj": 463
+  },
+  {
+    "food_code": "E010",
+    "food_name": "Banana, ripe, poovam",
+    "local_name": "Poovam kela",
+    "protein_content": 1.49,
+    "total_fat": 0.35,
+    "total_dietary_fibre": 2.33,
+    "carbohydrate": 23.41,
+    "energy_kj": 445
+  },
+  {
+    "food_code": "E011",
+    "food_name": "Banana, ripe, red",
+    "local_name": "Lal kela",
+    "protein_content": 1.29,
+    "total_fat": 0.29,
+    "total_dietary_fibre": 1.98,
+    "carbohydrate": 25.21,
+    "energy_kj": 467
+  },
+  {
+    "food_code": "E012",
+    "food_name": "Banana, ripe, robusta",
+    "local_name": "Kela",
+    "protein_content": 1.23,
+    "total_fat": 0.33,
+    "total_dietary_fibre": 1.94,
+    "carbohydrate": 23.63,
+    "energy_kj": 440
+  },
+  {
+    "food_code": "E013",
+    "food_name": "Black berry",
+    "local_name": "Jamun",
+    "protein_content": 0.92,
+    "total_fat": 0.63,
+    "total_dietary_fibre": 4.35,
+    "carbohydrate": 10.64,
+    "energy_kj": 227
+  },
+  {
+    "food_code": "E014",
+    "food_name": "Cherries, red",
+    "local_name": "Lal cherry",
+    "protein_content": 1.49,
+    "total_fat": 0.46,
+    "total_dietary_fibre": 2.12,
+    "carbohydrate": 11.87,
+    "energy_kj": 250
+  },
+  {
+    "food_code": "E015",
+    "food_name": "Currants, black",
+    "local_name": "Kala kishmish",
+    "protein_content": 1.51,
+    "total_fat": 0.53,
+    "total_dietary_fibre": 4.07,
+    "carbohydrate": 9.93,
+    "energy_kj": 227
+  },
+  {
+    "food_code": "E016",
+    "food_name": "Custard apple",
+    "local_name": "Shareefa / Sitaphal",
+    "protein_content": 1.62,
+    "total_fat": 0.67,
+    "total_dietary_fibre": 5.10,
+    "carbohydrate": 20.38,
+    "energy_kj": 414
+  },
+  {
+    "food_code": "E017",
+    "food_name": "Dates, dry, pale brown",
+    "local_name": "Khajoor / Chhohara",
+    "protein_content": 2.45,
+    "total_fat": 0.35,
+    "total_dietary_fibre": 8.95,
+    "carbohydrate": 74.91,
+    "energy_kj": 1340
+  },
+  {
+    "food_code": "E018",
+    "food_name": "Dates, dry, dark brown",
+    "local_name": "Kala khajoor / Chhohara",
+    "protein_content": 2.38,
+    "total_fat": 0.35,
+    "total_dietary_fibre": 9.10,
+    "carbohydrate": 72.67,
+    "energy_kj": 1301
+  },
+  {
+    "food_code": "E019",
+    "food_name": "Dates, processed",
+    "local_name": "Khajoor",
+    "protein_content": 1.18,
+    "total_fat": 0.41,
+    "total_dietary_fibre": 6.52,
+    "carbohydrate": 67.95,
+    "energy_kj": 1197
+  },
+  {
+    "food_code": "E020",
+    "food_name": "Fig",
+    "local_name": "Anjeer",
+    "protein_content": 2.03,
+    "total_fat": 0.37,
+    "total_dietary_fibre": 4.64,
+    "carbohydrate": 16.28,
+    "energy_kj": 341
+  },
+  {
+    "food_code": "E021",
+    "food_name": "Gooseberry",
+    "local_name": "Aamla",
+    "protein_content": 0.34,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 7.75,
+    "carbohydrate": 4.39,
+    "energy_kj": 99
+  },
+  {
+    "food_code": "E022",
+    "food_name": "Grapes, seeded, round, black",
+    "local_name": "Kala angoor",
+    "protein_content": 0.76,
+    "total_fat": 0.32,
+    "total_dietary_fibre": 1.35,
+    "carbohydrate": 13.23,
+    "energy_kj": 254
+  },
+  {
+    "food_code": "E023",
+    "food_name": "Grapes, seeded, round, green",
+    "local_name": "Hara angoor",
+    "protein_content": 0.77,
+    "total_fat": 0.29,
+    "total_dietary_fibre": 1.25,
+    "carbohydrate": 12.19,
+    "energy_kj": 235
+  },
+  {
+    "food_code": "E024",
+    "food_name": "Grapes, seeded, round, red",
+    "local_name": "Lal angoor",
+    "protein_content": 0.95,
+    "total_fat": 0.29,
+    "total_dietary_fibre": 1.28,
+    "carbohydrate": 12.55,
+    "energy_kj": 244
+  },
+  {
+    "food_code": "E025",
+    "food_name": "Grapes, seedless, oval, black",
+    "local_name": "Kala angoor",
+    "protein_content": 1.41,
+    "total_fat": 0.46,
+    "total_dietary_fibre": 1.64,
+    "carbohydrate": 20.48,
+    "energy_kj": 395
+  },
+  {
+    "food_code": "E026",
+    "food_name": "Grapes, seedless, round, green",
+    "local_name": "Hara angoor",
+    "protein_content": 0.62,
+    "total_fat": 0.26,
+    "total_dietary_fibre": 1.28,
+    "carbohydrate": 11.81,
+    "energy_kj": 224
+  },
+  {
+    "food_code": "E027",
+    "food_name": "Grapes, seedless, round, black",
+    "local_name": "Kala angoor",
+    "protein_content": 1.24,
+    "total_fat": 0.35,
+    "total_dietary_fibre": 1.15,
+    "carbohydrate": 19.86,
+    "energy_kj": 374
+  },
+  {
+    "food_code": "E028",
+    "food_name": "Guava, white flesh",
+    "local_name": "Amrood",
+    "protein_content": 1.44,
+    "total_fat": 0.32,
+    "total_dietary_fibre": 8.59,
+    "carbohydrate": 5.13,
+    "energy_kj": 135
+  },
+  {
+    "food_code": "E029",
+    "food_name": "Guava, pink flesh",
+    "local_name": "Gulabi amrood",
+    "protein_content": 1.19,
+    "total_fat": 0.25,
+    "total_dietary_fibre": 7.39,
+    "carbohydrate": 9.14,
+    "energy_kj": 195
+  },
+  {
+    "food_code": "E030",
+    "food_name": "Jack fruit, ripe",
+    "local_name": "Paka kathal",
+    "protein_content": 2.74,
+    "total_fat": 0.15,
+    "total_dietary_fibre": 3.62,
+    "carbohydrate": 14.01,
+    "energy_kj": 302
+  },
+  {
+    "food_code": "E031",
+    "food_name": "Jambu fruit, ripe",
+    "local_name": "Jamun",
+    "protein_content": 0.82,
+    "total_fat": 0.17,
+    "total_dietary_fibre": 3.07,
+    "carbohydrate": 12.30,
+    "energy_kj": 235
+  },
+  {
+    "food_code": "E032",
+    "food_name": "Karonda fruit",
+    "local_name": "Karonda",
+    "protein_content": 1.15,
+    "total_fat": 1.67,
+    "total_dietary_fibre": 7.25,
+    "carbohydrate": 2.87,
+    "energy_kj": 141
+  },
+  {
+    "food_code": "E033",
+    "food_name": "Lemon, juice",
+    "local_name": "Nimbu ka ras",
+    "protein_content": 0.41,
+    "total_fat": 0.75,
+    "total_dietary_fibre": 0,
+    "carbohydrate": 6.97,
+    "energy_kj": 153
+  },
+  {
+    "food_code": "E034",
+    "food_name": "Lime, sweet,pulp",
+    "local_name": "Mosambi",
+    "protein_content": 0.76,
+    "total_fat": 0.20,
+    "total_dietary_fibre": 2.07,
+    "carbohydrate": 5.18,
+    "energy_kj": 114
+  },
+  {
+    "food_code": "E035",
+    "food_name": "Litchi",
+    "local_name": "Litchi",
+    "protein_content": 0.99,
+    "total_fat": 0.26,
+    "total_dietary_fibre": 1.34,
+    "carbohydrate": 11.41,
+    "energy_kj": 225
+  },
+  {
+    "food_code": "E036",
+    "food_name": "Mango, ripe, banganapalli",
+    "local_name": "Banganapalli aam",
+    "protein_content": 0.54,
+    "total_fat": 0.55,
+    "total_dietary_fibre": 1.88,
+    "carbohydrate": 8.18,
+    "energy_kj": 175
+  },
+  {
+    "food_code": "E037",
+    "food_name": "Mango, ripe, gulabkhas",
+    "local_name": "Gulabkhas aam",
+    "protein_content": 0.52,
+    "total_fat": 0.53,
+    "total_dietary_fibre": 1.67,
+    "carbohydrate": 10.32,
+    "energy_kj": 209
+  },
+  {
+    "food_code": "E038",
+    "food_name": "Mango, ripe, himsagar",
+    "local_name": "Himsagar aam",
+    "protein_content": 0.46,
+    "total_fat": 0.54,
+    "total_dietary_fibre": 1.55,
+    "carbohydrate": 9.03,
+    "energy_kj": 187
+  },
+  {
+    "food_code": "E039",
+    "food_name": "Mango, ripe, kesar",
+    "local_name": "Kesar aam",
+    "protein_content": 0.54,
+    "total_fat": 0.57,
+    "total_dietary_fibre": 2.02,
+    "carbohydrate": 11.36,
+    "energy_kj": 231
+  },
+  {
+    "food_code": "E040",
+    "food_name": "Mango, ripe, neelam",
+    "local_name": "Neelam aam",
+    "protein_content": 0.68,
+    "total_fat": 0.55,
+    "total_dietary_fibre": 1.77,
+    "carbohydrate": 8.21,
+    "energy_kj": 178
+  },
+  {
+    "food_code": "E041",
+    "food_name": "Mango, ripe, paheri",
+    "local_name": "Paheri aam",
+    "protein_content": 0.68,
+    "total_fat": 0.58,
+    "total_dietary_fibre": 1.97,
+    "carbohydrate": 8.67,
+    "energy_kj": 188
+  },
+  {
+    "food_code": "E042",
+    "food_name": "Mango, ripe, totapari",
+    "local_name": "Totapuri aam",
+    "protein_content": 0.41,
+    "total_fat": 0.49,
+    "total_dietary_fibre": 1.73,
+    "carbohydrate": 12.75,
+    "energy_kj": 248
+  },
+  {
+    "food_code": "E043",
+    "food_name": "Mangosteen",
+    "local_name": "Mangosteen",
+    "protein_content": 0.63,
+    "total_fat": 0.24,
+    "total_dietary_fibre": 1.87,
+    "carbohydrate": 11.41,
+    "energy_kj": 219
+  },
+  {
+    "food_code": "E044",
+    "food_name": "Manila tamarind",
+    "local_name": "Jangal jalebi",
+    "protein_content": 3.56,
+    "total_fat": 1.14,
+    "total_dietary_fibre": 4.40,
+    "carbohydrate": 13.54,
+    "energy_kj": 342
+  },
+  {
+    "food_code": "E045",
+    "food_name": "Musk melon, orange flesh",
+    "local_name": "Kharbooza",
+    "protein_content": 0.42,
+    "total_fat": 0.35,
+    "total_dietary_fibre": 1.51,
+    "carbohydrate": 4.24,
+    "energy_kj": 97
+  },
+  {
+    "food_code": "E046",
+    "food_name": "Musk melon, yellow flesh",
+    "local_name": "Kharbooza",
+    "protein_content": 0.53,
+    "total_fat": 0.26,
+    "total_dietary_fibre": 1.49,
+    "carbohydrate": 5.40,
+    "energy_kj": 116
+  },
+  {
+    "food_code": "E047",
+    "food_name": "Orange, pulp",
+    "local_name": "Santra",
+    "protein_content": 0.70,
+    "total_fat": 0.13,
+    "total_dietary_fibre": 1.29,
+    "carbohydrate": 7.92,
+    "energy_kj": 156
+  },
+  {
+    "food_code": "E048",
+    "food_name": "Palm fruit, tender",
+    "local_name": "Tadgola",
+    "protein_content": 0.50,
+    "total_fat": 0.12,
+    "total_dietary_fibre": 2.40,
+    "carbohydrate": 4.92,
+    "energy_kj": 101
+  },
+  {
+    "food_code": "E049",
+    "food_name": "Papaya, ripe",
+    "local_name": "Paka papita",
+    "protein_content": 0.42,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 2.83,
+    "carbohydrate": 4.61,
+    "energy_kj": 100
+  },
+  {
+    "food_code": "E050",
+    "food_name": "Peach",
+    "local_name": "Aadoo",
+    "protein_content": 0.86,
+    "total_fat": 0.37,
+    "total_dietary_fibre": 2.13,
+    "carbohydrate": 7.82,
+    "energy_kj": 168
+  },
+  {
+    "food_code": "E051",
+    "food_name": "Pear",
+    "local_name": "Nashpati",
+    "protein_content": 0.36,
+    "total_fat": 0.27,
+    "total_dietary_fibre": 4.48,
+    "carbohydrate": 8.09,
+    "energy_kj": 157
+  },
+  {
+    "food_code": "E052",
+    "food_name": "Phalsa",
+    "local_name": "Phalsa",
+    "protein_content": 1.66,
+    "total_fat": 0.14,
+    "total_dietary_fibre": 4.54,
+    "carbohydrate": 15.09,
+    "energy_kj": 299
+  },
+  {
+    "food_code": "E053",
+    "food_name": "Pineapple",
+    "local_name": "Ananas",
+    "protein_content": 0.52,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 3.46,
+    "carbohydrate": 9.42,
+    "energy_kj": 180
+  },
+  {
+    "food_code": "E054",
+    "food_name": "Plum",
+    "local_name": "Aloo bukhara",
+    "protein_content": 0.64,
+    "total_fat": 0.40,
+    "total_dietary_fibre": 2.07,
+    "carbohydrate": 12.10,
+    "energy_kj": 238
+  },
+  {
+    "food_code": "E055",
+    "food_name": "Pomegranate, maroon seeds",
+    "local_name": "Anaar",
+    "protein_content": 1.33,
+    "total_fat": 0.15,
+    "total_dietary_fibre": 2.83,
+    "carbohydrate": 11.58,
+    "energy_kj": 229
+  },
+  {
+    "food_code": "E056",
+    "food_name": "Pummelo",
+    "local_name": "Chakotra",
+    "protein_content": 0.68,
+    "total_fat": 0.42,
+    "total_dietary_fibre": 0.80,
+    "carbohydrate": 10.64,
+    "energy_kj": 210
+  },
+  {
+    "food_code": "E057",
+    "food_name": "Raisins, dried, black",
+    "local_name": "Kishmish / Munakka",
+    "protein_content": 2.57,
+    "total_fat": 0.34,
+    "total_dietary_fibre": 3.92,
+    "carbohydrate": 71.29,
+    "energy_kj": 1279
+  },
+  {
+    "food_code": "E058",
+    "food_name": "Raisins, dried, golden",
+    "local_name": "Sunehri kishmish",
+    "protein_content": 2.76,
+    "total_fat": 0.35,
+    "total_dietary_fibre": 4.56,
+    "carbohydrate": 68.79,
+    "energy_kj": 1241
+  },
+  {
+    "food_code": "E059",
+    "food_name": "Rambutan",
+    "local_name": "Rambutan",
+    "protein_content": 0.68,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 1.02,
+    "carbohydrate": 16.84,
+    "energy_kj": 306
+  },
+  {
+    "food_code": "E060",
+    "food_name": "Sapota",
+    "local_name": "Chiku",
+    "protein_content": 0.92,
+    "total_fat": 1.26,
+    "total_dietary_fibre": 9.60,
+    "carbohydrate": 13.90,
+    "energy_kj": 307
+  },
+  {
+    "food_code": "E061",
+    "food_name": "Soursop",
+    "local_name": "Lakhman phal",
+    "protein_content": 0.74,
+    "total_fat": 0.94,
+    "total_dietary_fibre": 4.95,
+    "carbohydrate": 11.94,
+    "energy_kj": 260
+  },
+  {
+    "food_code": "E062",
+    "food_name": "Star fruit",
+    "local_name": "Kamrakh",
+    "protein_content": 0.79,
+    "total_fat": 0.39,
+    "total_dietary_fibre": 2.81,
+    "carbohydrate": 4.51,
+    "energy_kj": 110
+  },
+  {
+    "food_code": "E063",
+    "food_name": "Strawberry",
+    "local_name": "Strawberry",
+    "protein_content": 0.97,
+    "total_fat": 0.56,
+    "total_dietary_fibre": 2.50,
+    "carbohydrate": 3.40,
+    "energy_kj": 103
+  },
+  {
+    "food_code": "E064",
+    "food_name": "Tamarind, pulp",
+    "local_name": "Imli",
+    "protein_content": 2.92,
+    "total_fat": 0.15,
+    "total_dietary_fibre": 5.31,
+    "carbohydrate": 67.35,
+    "energy_kj": 1207
+  },
+  {
+    "food_code": "E065",
+    "food_name": "Water melon, dark green (sugar baby)",
+    "local_name": "Kala tarbooz",
+    "protein_content": 0.60,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 0.70,
+    "carbohydrate": 3.86,
+    "energy_kj": 85
+  },
+  {
+    "food_code": "E066",
+    "food_name": "Water melon, pale green",
+    "local_name": "Tarbooz",
+    "protein_content": 0.59,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 0.78,
+    "carbohydrate": 3.02,
+    "energy_kj": 70
+  },
+  {
+    "food_code": "E067",
+    "food_name": "Wood Apple",
+    "local_name": "Kaitha",
+    "protein_content": 3.14,
+    "total_fat": 3.62,
+    "total_dietary_fibre": 5.21,
+    "carbohydrate": 7.52,
+    "energy_kj": 327
+  },
+  {
+    "food_code": "E068",
+    "food_name": "Zizyphus",
+    "local_name": "Ber",
+    "protein_content": 1.34,
+    "total_fat": 0.35,
+    "total_dietary_fibre": 3.73,
+    "carbohydrate": 9.40,
+    "energy_kj": 204
+  },
+  {
+    "food_code": "D001",
+    "food_name": "Ash gourd",
+    "local_name": "Petha / Safed kaddu",
+    "protein_content": 0.79,
+    "total_fat": 0.14,
+    "total_dietary_fibre": 3.37,
+    "carbohydrate": 2.84,
+    "energy_kj": 73
+  },
+  {
+    "food_code": "D002",
+    "food_name": "Bamboo shoot, tender",
+    "local_name": "Bans ke karil",
+    "protein_content": 1.33,
+    "total_fat": 0.35,
+    "total_dietary_fibre": 1.55,
+    "carbohydrate": 1.67,
+    "energy_kj": 68
+  },
+  {
+    "food_code": "D003",
+    "food_name": "Bean scarlet, tender",
+    "local_name": "Sem fali",
+    "protein_content": 2.86,
+    "total_fat": 0.99,
+    "total_dietary_fibre": 4.50,
+    "carbohydrate": 5.16,
+    "energy_kj": 179
+  },
+  {
+    "food_code": "D004",
+    "food_name": "Bitter gourd, jagged, teeth ridges, elongate",
+    "local_name": "Lamba karela",
+    "protein_content": 1.44,
+    "total_fat": 0.24,
+    "total_dietary_fibre": 3.78,
+    "carbohydrate": 2.82,
+    "energy_kj": 87
+  },
+  {
+    "food_code": "D005",
+    "food_name": "Bitter gourd, jagged, teeth ridges, short",
+    "local_name": "Chhota karela",
+    "protein_content": 1.34,
+    "total_fat": 0.24,
+    "total_dietary_fibre": 3.49,
+    "carbohydrate": 2.53,
+    "energy_kj": 79
+  },
+  {
+    "food_code": "D006",
+    "food_name": "Bitter gourd, jagged, smooth ridges, elongate",
+    "local_name": "Karela",
+    "protein_content": 1.61,
+    "total_fat": 0.26,
+    "total_dietary_fibre": 3.72,
+    "carbohydrate": 2.29,
+    "energy_kj": 81
+  },
+  {
+    "food_code": "D007",
+    "food_name": "Bottle gourd, elongate, pale green",
+    "local_name": "Lambi lauki",
+    "protein_content": 0.53,
+    "total_fat": 0.13,
+    "total_dietary_fibre": 2.12,
+    "carbohydrate": 1.68,
+    "energy_kj": 46
+  },
+  {
+    "food_code": "D008",
+    "food_name": "Bottle gourd, round, pale green",
+    "local_name": "Gol lauki",
+    "protein_content": 0.42,
+    "total_fat": 0.12,
+    "total_dietary_fibre": 2.10,
+    "carbohydrate": 2.53,
+    "energy_kj": 57
+  },
+  {
+    "food_code": "D009",
+    "food_name": "Bottle gourd, elongate, dark green",
+    "local_name": "Hari lauki",
+    "protein_content": 0.49,
+    "total_fat": 0.13,
+    "total_dietary_fibre": 2.11,
+    "carbohydrate": 2.25,
+    "energy_kj": 54
+  },
+  {
+    "food_code": "D031",
+    "food_name": "Brinjal - generic",
+    "local_name": "Baingan",
+    "protein_content": 1.48,
+    "total_fat": 0.32,
+    "total_dietary_fibre": 3.98,
+    "carbohydrate": 3.52,
+    "energy_kj": 106
+  },
+  {
+    "food_code": "D032",
+    "food_name": "Broad beans",
+    "local_name": "Bakla / Sem",
+    "protein_content": 3.85,
+    "total_fat": 0.15,
+    "total_dietary_fibre": 8.63,
+    "carbohydrate": 2.11,
+    "energy_kj": 123
+  },
+  {
+    "food_code": "D033",
+    "food_name": "Capsicum, green",
+    "local_name": "Hari shimla mirch",
+    "protein_content": 1.11,
+    "total_fat": 0.34,
+    "total_dietary_fibre": 2.06,
+    "carbohydrate": 1.84,
+    "energy_kj": 68
+  },
+  {
+    "food_code": "D034",
+    "food_name": "Capsicum, red",
+    "local_name": "Lal shimla mirch",
+    "protein_content": 1.47,
+    "total_fat": 0.47,
+    "total_dietary_fibre": 2.19,
+    "carbohydrate": 2.14,
+    "energy_kj": 83
+  },
+  {
+    "food_code": "D035",
+    "food_name": "Capsicum, yellow",
+    "local_name": "Peeli shimla mirch",
+    "protein_content": 1.35,
+    "total_fat": 0.41,
+    "total_dietary_fibre": 2.19,
+    "carbohydrate": 1.95,
+    "energy_kj": 78
+  },
+  {
+    "food_code": "D036",
+    "food_name": "Cauliflower",
+    "local_name": "Phool gobhi",
+    "protein_content": 2.15,
+    "total_fat": 0.44,
+    "total_dietary_fibre": 3.71,
+    "carbohydrate": 2.03,
+    "energy_kj": 96
+  },
+  {
+    "food_code": "D037",
+    "food_name": "Celery stalk",
+    "local_name": "Ajwain ke patte / Celery",
+    "protein_content": 0.98,
+    "total_fat": 0.24,
+    "total_dietary_fibre": 2.09,
+    "carbohydrate": 2.33,
+    "energy_kj": 69
+  },
+  {
+    "food_code": "D038",
+    "food_name": "Cho-cho-marrow",
+    "local_name": "Chayote / Chow chow",
+    "protein_content": 0.66,
+    "total_fat": 0.15,
+    "total_dietary_fibre": 1.55,
+    "carbohydrate": 3.47,
+    "energy_kj": 79
+  },
+  {
+    "food_code": "D039",
+    "food_name": "Cluster beans",
+    "local_name": "Gwar phali",
+    "protein_content": 3.55,
+    "total_fat": 0.37,
+    "total_dietary_fibre": 4.83,
+    "carbohydrate": 4.91,
+    "energy_kj": 168
+  },
+  {
+    "food_code": "D040",
+    "food_name": "Colocasia, stem, black",
+    "local_name": "Kala arbi tana",
+    "protein_content": 0.76,
+    "total_fat": 0.34,
+    "total_dietary_fibre": 3.01,
+    "carbohydrate": 3.83,
+    "energy_kj": 100
+  },
+  {
+    "food_code": "D041",
+    "food_name": "Colocasia, stem, green",
+    "local_name": "Hara arbi tana",
+    "protein_content": 0.91,
+    "total_fat": 0.22,
+    "total_dietary_fibre": 2.33,
+    "carbohydrate": 2.86,
+    "energy_kj": 81
+  },
+  {
+    "food_code": "D042",
+    "food_name": "Corn, Baby",
+    "local_name": "Baby corn",
+    "protein_content": 2.69,
+    "total_fat": 1.33,
+    "total_dietary_fibre": 6.09,
+    "carbohydrate": 11.66,
+    "energy_kj": 306
+  },
+  {
+    "food_code": "D043",
+    "food_name": "Cucumber, green, elongate",
+    "local_name": "Lamba hara kheera",
+    "protein_content": 0.71,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 2.14,
+    "carbohydrate": 3.48,
+    "energy_kj": 82
+  },
+  {
+    "food_code": "D044",
+    "food_name": "Cucumber, green, short",
+    "local_name": "Chhota hara kheera",
+    "protein_content": 0.83,
+    "total_fat": 0.18,
+    "total_dietary_fibre": 2.13,
+    "carbohydrate": 2.82,
+    "energy_kj": 73
+  },
+  {
+    "food_code": "D045",
+    "food_name": "Cucumber, orange, round",
+    "local_name": "Gol kheera / Kakdi",
+    "protein_content": 0.98,
+    "total_fat": 0.24,
+    "total_dietary_fibre": 2.46,
+    "carbohydrate": 3.01,
+    "energy_kj": 82
+  },
+  {
+    "food_code": "D046",
+    "food_name": "Drumstick",
+    "local_name": "Sahjan ki phali / Munga",
+    "protein_content": 2.62,
+    "total_fat": 0.12,
+    "total_dietary_fibre": 6.83,
+    "carbohydrate": 3.76,
+    "energy_kj": 123
+  },
+  {
+    "food_code": "D047",
+    "food_name": "Field beans, tender, broad",
+    "local_name": "Chowli / Sem phali",
+    "protein_content": 3.06,
+    "total_fat": 0.64,
+    "total_dietary_fibre": 5.64,
+    "carbohydrate": 2.75,
+    "energy_kj": 129
+  },
+  {
+    "food_code": "D048",
+    "food_name": "Field beans, tender, lean",
+    "local_name": "Sem phali",
+    "protein_content": 3.71,
+    "total_fat": 0.60,
+    "total_dietary_fibre": 6.19,
+    "carbohydrate": 2.85,
+    "energy_kj": 140
+  },
+  {
+    "food_code": "D049",
+    "food_name": "French beans, country",
+    "local_name": "Desi french beans",
+    "protein_content": 2.49,
+    "total_fat": 0.26,
+    "total_dietary_fibre": 4.38,
+    "carbohydrate": 2.68,
+    "energy_kj": 102
+  },
+  {
+    "food_code": "D050",
+    "food_name": "French beans, hybrid",
+    "local_name": "French beans",
+    "protein_content": 2.12,
+    "total_fat": 0.19,
+    "total_dietary_fibre": 4.18,
+    "carbohydrate": 2.63,
+    "energy_kj": 93
+  },
+  {
+    "food_code": "D051",
+    "food_name": "Jack fruit, raw",
+    "local_name": "Kacha kathal",
+    "protein_content": 1.98,
+    "total_fat": 0.35,
+    "total_dietary_fibre": 7.69,
+    "carbohydrate": 3.48,
+    "energy_kj": 110
+  },
+  {
+    "food_code": "D052",
+    "food_name": "Jack fruit, seed, mature",
+    "local_name": "Kathal ke beej",
+    "protein_content": 5.79,
+    "total_fat": 0.44,
+    "total_dietary_fibre": 8.63,
+    "carbohydrate": 11.81,
+    "energy_kj": 322
+  },
+  {
+    "food_code": "D053",
+    "food_name": "Knol - Khol",
+    "local_name": "Ganth gobhi",
+    "protein_content": 1.58,
+    "total_fat": 0.35,
+    "total_dietary_fibre": 2.75,
+    "carbohydrate": 1.39,
+    "energy_kj": 67
+  },
+  {
+    "food_code": "D054",
+    "food_name": "Kovai, big",
+    "local_name": "Bada kundru / Tora",
+    "protein_content": 1.39,
+    "total_fat": 0.24,
+    "total_dietary_fibre": 3.00,
+    "carbohydrate": 2.01,
+    "energy_kj": 73
+  },
+  {
+    "food_code": "D055",
+    "food_name": "Kovai, small",
+    "local_name": "Chhota kundru / Tora",
+    "protein_content": 1.22,
+    "total_fat": 0.24,
+    "total_dietary_fibre": 3.25,
+    "carbohydrate": 2.41,
+    "energy_kj": 80
+  },
+  {
+    "food_code": "D056",
+    "food_name": "Ladies finger",
+    "local_name": "Bhindi",
+    "protein_content": 2.08,
+    "total_fat": 0.22,
+    "total_dietary_fibre": 4.08,
+    "carbohydrate": 3.62,
+    "energy_kj": 115
+  },
+  {
+    "food_code": "D057",
+    "food_name": "Mango, green, raw",
+    "local_name": "Kacha aam",
+    "protein_content": 0.69,
+    "total_fat": 0.08,
+    "total_dietary_fibre": 3.01,
+    "carbohydrate": 10.59,
+    "energy_kj": 205
+  },
+  {
+    "food_code": "D058",
+    "food_name": "Onion, stalk",
+    "local_name": "Hara pyaz",
+    "protein_content": 2.07,
+    "total_fat": 0.26,
+    "total_dietary_fibre": 5.21,
+    "carbohydrate": 2.99,
+    "energy_kj": 107
+  },
+  {
+    "food_code": "D059",
+    "food_name": "Papaya, raw",
+    "local_name": "Kacha papita",
+    "protein_content": 0.50,
+    "total_fat": 0.23,
+    "total_dietary_fibre": 2.28,
+    "carbohydrate": 4.40,
+    "energy_kj": 100
+  },
+  {
+    "food_code": "D060",
+    "food_name": "Parwar",
+    "local_name": "Parwal",
+    "protein_content": 1.40,
+    "total_fat": 0.30,
+    "total_dietary_fibre": 2.61,
+    "carbohydrate": 3.54,
+    "energy_kj": 101
+  },
+  {
+    "food_code": "D061",
+    "food_name": "Peas, fresh",
+    "local_name": "Hari matar",
+    "protein_content": 7.25,
+    "total_fat": 0.13,
+    "total_dietary_fibre": 6.32,
+    "carbohydrate": 11.88,
+    "energy_kj": 340
+  },
+  {
+    "food_code": "D062",
+    "food_name": "Plantain, flower",
+    "local_name": "Kele ka phool",
+    "protein_content": 1.47,
+    "total_fat": 0.63,
+    "total_dietary_fibre": 5.25,
+    "carbohydrate": 2.15,
+    "energy_kj": 89
+  },
+  {
+    "food_code": "D063",
+    "food_name": "Plantain, green",
+    "local_name": "Kacha kela",
+    "protein_content": 1.18,
+    "total_fat": 0.23,
+    "total_dietary_fibre": 3.60,
+    "carbohydrate": 17.58,
+    "energy_kj": 334
+  },
+  {
+    "food_code": "D064",
+    "food_name": "Plantain, stem",
+    "local_name": "Kele ka tana",
+    "protein_content": 0.35,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 2.12,
+    "carbohydrate": 8.64,
+    "energy_kj": 165
+  },
+  {
+    "food_code": "D065",
+    "food_name": "Pumpkin, green, cylindrical",
+    "local_name": "Lamba hara kaddu",
+    "protein_content": 0.87,
+    "total_fat": 0.18,
+    "total_dietary_fibre": 2.53,
+    "carbohydrate": 4.22,
+    "energy_kj": 103
+  },
+  {
+    "food_code": "D066",
+    "food_name": "Pumpkin, orange, round",
+    "local_name": "Gol peela kaddu",
+    "protein_content": 0.84,
+    "total_fat": 0.16,
+    "total_dietary_fibre": 2.56,
+    "carbohydrate": 4.00,
+    "energy_kj": 97
+  },
+  {
+    "food_code": "D067",
+    "food_name": "Red gram, tender, fresh",
+    "local_name": "Hari arhar phali",
+    "protein_content": 8.09,
+    "total_fat": 0.92,
+    "total_dietary_fibre": 5.90,
+    "carbohydrate": 19.46,
+    "energy_kj": 520
+  },
+  {
+    "food_code": "D068",
+    "food_name": "Ridge gourd",
+    "local_name": "Torai",
+    "protein_content": 0.91,
+    "total_fat": 0.14,
+    "total_dietary_fibre": 1.81,
+    "carbohydrate": 1.72,
+    "energy_kj": 55
+  },
+  {
+    "food_code": "D069",
+    "food_name": "Ridge gourd, smooth skin",
+    "local_name": "Ghiyya torai / Nenua",
+    "protein_content": 0.98,
+    "total_fat": 0.13,
+    "total_dietary_fibre": 1.85,
+    "carbohydrate": 2.24,
+    "energy_kj": 64
+  },
+  {
+    "food_code": "D070",
+    "food_name": "Snake gourd, long, pale green",
+    "local_name": "Lamba chichinda",
+    "protein_content": 0.98,
+    "total_fat": 0.25,
+    "total_dietary_fibre": 2.27,
+    "carbohydrate": 1.27,
+    "energy_kj": 52
+  },
+  {
+    "food_code": "D071",
+    "food_name": "Snake gourd, long, dark green",
+    "local_name": "Chichinda",
+    "protein_content": 0.89,
+    "total_fat": 0.25,
+    "total_dietary_fibre": 2.27,
+    "carbohydrate": 1.23,
+    "energy_kj": 50
+  },
+  {
+    "food_code": "D072",
+    "food_name": "Snake gourd, short",
+    "local_name": "Chhota chichinda",
+    "protein_content": 0.54,
+    "total_fat": 0.26,
+    "total_dietary_fibre": 2.29,
+    "carbohydrate": 2.15,
+    "energy_kj": 61
+  },
+  {
+    "food_code": "D073",
+    "food_name": "Tinda, tender",
+    "local_name": "Tinda",
+    "protein_content": 1.02,
+    "total_fat": 0.17,
+    "total_dietary_fibre": 2.00,
+    "carbohydrate": 1.90,
+    "energy_kj": 58
+  },
+  {
+    "food_code": "D074",
+    "food_name": "Tomato, green",
+    "local_name": "Hara tamatar",
+    "protein_content": 1.12,
+    "total_fat": 0.27,
+    "total_dietary_fibre": 1.62,
+    "carbohydrate": 3.18,
+    "energy_kj": 87
+  },
+  {
+    "food_code": "D075",
+    "food_name": "Tomato, ripe, hybrid",
+    "local_name": "Hybrid tamatar",
+    "protein_content": 0.76,
+    "total_fat": 0.25,
+    "total_dietary_fibre": 1.58,
+    "carbohydrate": 3.20,
+    "energy_kj": 79
+  },
+  {
+    "food_code": "D076",
+    "food_name": "Tomato, ripe, local",
+    "local_name": "Desi tamatar",
+    "protein_content": 0.90,
+    "total_fat": 0.47,
+    "total_dietary_fibre": 1.77,
+    "carbohydrate": 2.71,
+    "energy_kj": 82
+  },
+  {
+    "food_code": "D077",
+    "food_name": "Zucchini, green",
+    "local_name": "Hari zucchini",
+    "protein_content": 1.10,
+    "total_fat": 0.51,
+    "total_dietary_fibre": 2.30,
+    "carbohydrate": 2.33,
+    "energy_kj": 84
+  },
+  {
+    "food_code": "D078",
+    "food_name": "Zucchini, yellow",
+    "local_name": "Peeli zucchini",
+    "protein_content": 1.31,
+    "total_fat": 0.44,
+    "total_dietary_fibre": 1.84,
+    "carbohydrate": 2.20,
+    "energy_kj": 79
+  },
+  {
+    "food_code": "C001",
+    "food_name": "Agathi leaves",
+    "local_name": "Agathi ke patte / Gaachh",
+    "protein_content": 8.01,
+    "total_fat": 1.35,
+    "total_dietary_fibre": 8.60,
+    "carbohydrate": 5.21,
+    "energy_kj": 295
+  },
+  {
+    "food_code": "C002",
+    "food_name": "Amaranth leaves, green",
+    "local_name": "Hara chaulai",
+    "protein_content": 3.29,
+    "total_fat": 0.65,
+    "total_dietary_fibre": 4.41,
+    "carbohydrate": 2.28,
+    "energy_kj": 128
+  },
+  {
+    "food_code": "C003",
+    "food_name": "Amaranth leaves, red",
+    "local_name": "Lal chaulai",
+    "protein_content": 3.93,
+    "total_fat": 0.63,
+    "total_dietary_fibre": 4.91,
+    "carbohydrate": 2.37,
+    "energy_kj": 140
+  },
+  {
+    "food_code": "C004",
+    "food_name": "Amaranth leaves, red and green mix",
+    "local_name": "Chaulai saag",
+    "protein_content": 3.09,
+    "total_fat": 0.53,
+    "total_dietary_fibre": 4.60,
+    "carbohydrate": 2.87,
+    "energy_kj": 132
+  },
+  {
+    "food_code": "C005",
+    "food_name": "Amaranth spinosus, leaves, green",
+    "local_name": "Kante wali chaulai",
+    "protein_content": 3.54,
+    "total_fat": 0.36,
+    "total_dietary_fibre": 5.10,
+    "carbohydrate": 1.61,
+    "energy_kj": 110
+  },
+  {
+    "food_code": "C006",
+    "food_name": "Amaranth spinosus, leaves, red and green mix",
+    "local_name": "Kante wali chaulai",
+    "protein_content": 2.80,
+    "total_fat": 0.34,
+    "total_dietary_fibre": 5.57,
+    "carbohydrate": 1.45,
+    "energy_kj": 99
+  },
+  {
+    "food_code": "C007",
+    "food_name": "Basella leaves",
+    "local_name": "Poi saag",
+    "protein_content": 1.57,
+    "total_fat": 0.45,
+    "total_dietary_fibre": 2.21,
+    "carbohydrate": 2.01,
+    "energy_kj": 82
+  },
+  {
+    "food_code": "C008",
+    "food_name": "Bathua leaves",
+    "local_name": "Bathua saag",
+    "protein_content": 2.50,
+    "total_fat": 0.44,
+    "total_dietary_fibre": 4.01,
+    "carbohydrate": 2.56,
+    "energy_kj": 116
+  },
+  {
+    "food_code": "C009",
+    "food_name": "Beet greens",
+    "local_name": "Chukandar ke patte",
+    "protein_content": 2.38,
+    "total_fat": 0.75,
+    "total_dietary_fibre": 3.64,
+    "carbohydrate": 3.86,
+    "energy_kj": 145
+  },
+  {
+    "food_code": "C010",
+    "food_name": "Betel leaves, big (kolkata)",
+    "local_name": "Kolkata paan",
+    "protein_content": 2.51,
+    "total_fat": 0.75,
+    "total_dietary_fibre": 2.12,
+    "carbohydrate": 7.37,
+    "energy_kj": 202
+  },
+  {
+    "food_code": "C011",
+    "food_name": "Betel leaves, small",
+    "local_name": "Chhota paan",
+    "protein_content": 2.62,
+    "total_fat": 0.75,
+    "total_dietary_fibre": 1.97,
+    "carbohydrate": 6.16,
+    "energy_kj": 183
+  },
+  {
+    "food_code": "C012",
+    "food_name": "Brussels sprouts",
+    "local_name": "Chhoti gobhi / Brussels sprouts",
+    "protein_content": 4.26,
+    "total_fat": 0.50,
+    "total_dietary_fibre": 4.29,
+    "carbohydrate": 5.09,
+    "energy_kj": 185
+  },
+  {
+    "food_code": "C013",
+    "food_name": "Cabbage, Chinese",
+    "local_name": "Chinese patta gobhi",
+    "protein_content": 1.58,
+    "total_fat": 0.13,
+    "total_dietary_fibre": 2.01,
+    "carbohydrate": 2.36,
+    "energy_kj": 75
+  },
+  {
+    "food_code": "C014",
+    "food_name": "Cabbage, collard greens",
+    "local_name": "Haak saag",
+    "protein_content": 3.63,
+    "total_fat": 0.27,
+    "total_dietary_fibre": 2.98,
+    "carbohydrate": 2.79,
+    "energy_kj": 126
+  },
+  {
+    "food_code": "C015",
+    "food_name": "Cabbage, green",
+    "local_name": "Hari patta gobhi",
+    "protein_content": 1.36,
+    "total_fat": 0.12,
+    "total_dietary_fibre": 2.76,
+    "carbohydrate": 3.25,
+    "energy_kj": 90
+  },
+  {
+    "food_code": "C016",
+    "food_name": "Cabbage, violet",
+    "local_name": "Lal / Baingani patta gobhi",
+    "protein_content": 1.39,
+    "total_fat": 0.21,
+    "total_dietary_fibre": 2.21,
+    "carbohydrate": 3.54,
+    "energy_kj": 97
+  },
+  {
+    "food_code": "C017",
+    "food_name": "Cauliflower leaves",
+    "local_name": "Phool gobhi ke patte",
+    "protein_content": 3.90,
+    "total_fat": 0.42,
+    "total_dietary_fibre": 3.43,
+    "carbohydrate": 3.39,
+    "energy_kj": 148
+  },
+  {
+    "food_code": "C018",
+    "food_name": "Colocasia leaves, green",
+    "local_name": "Arbi ke patte",
+    "protein_content": 3.42,
+    "total_fat": 1.38,
+    "total_dietary_fibre": 5.60,
+    "carbohydrate": 3.69,
+    "energy_kj": 182
+  },
+  {
+    "food_code": "C019",
+    "food_name": "Drumstick leaves",
+    "local_name": "Sahjan ke patte",
+    "protein_content": 6.41,
+    "total_fat": 1.64,
+    "total_dietary_fibre": 8.21,
+    "carbohydrate": 5.62,
+    "energy_kj": 282
+  },
+  {
+    "food_code": "C020",
+    "food_name": "Fenugreek leaves",
+    "local_name": "Methi saag",
+    "protein_content": 3.68,
+    "total_fat": 0.83,
+    "total_dietary_fibre": 4.90,
+    "carbohydrate": 2.17,
+    "energy_kj": 144
+  },
+  {
+    "food_code": "C021",
+    "food_name": "Garden cress",
+    "local_name": "Chandrasur / Halim ke patte",
+    "protein_content": 5.62,
+    "total_fat": 0.80,
+    "total_dietary_fibre": 2.60,
+    "carbohydrate": 4.48,
+    "energy_kj": 208
+  },
+  {
+    "food_code": "C022",
+    "food_name": "Gogu leaves, green",
+    "local_name": "Pitwaa saag / Gongura",
+    "protein_content": 1.86,
+    "total_fat": 1.09,
+    "total_dietary_fibre": 4.59,
+    "carbohydrate": 4.06,
+    "energy_kj": 152
+  },
+  {
+    "food_code": "C023",
+    "food_name": "Gogu leaves, red",
+    "local_name": "Lal pitwaa / Gongura",
+    "protein_content": 1.85,
+    "total_fat": 1.07,
+    "total_dietary_fibre": 3.89,
+    "carbohydrate": 4.24,
+    "energy_kj": 153
+  },
+  {
+    "food_code": "C024",
+    "food_name": "Knol-Khol, leaves",
+    "local_name": "Ganth gobhi ke patte",
+    "protein_content": 3.12,
+    "total_fat": 0.35,
+    "total_dietary_fibre": 2.76,
+    "carbohydrate": 6.16,
+    "energy_kj": 178
+  },
+  {
+    "food_code": "C025",
+    "food_name": "Lettuce",
+    "local_name": "Salad patta",
+    "protein_content": 1.54,
+    "total_fat": 0.27,
+    "total_dietary_fibre": 1.79,
+    "carbohydrate": 3.01,
+    "energy_kj": 91
+  },
+  {
+    "food_code": "C026",
+    "food_name": "Mustard leaves",
+    "local_name": "Sarson ka saag",
+    "protein_content": 3.52,
+    "total_fat": 0.51,
+    "total_dietary_fibre": 3.92,
+    "carbohydrate": 2.41,
+    "energy_kj": 127
+  },
+  {
+    "food_code": "C027",
+    "food_name": "Pak Choi leaves",
+    "local_name": "Bok choy / Pak choi",
+    "protein_content": 1.41,
+    "total_fat": 0.25,
+    "total_dietary_fibre": 1.91,
+    "carbohydrate": 1.78,
+    "energy_kj": 67
+  },
+  {
+    "food_code": "C028",
+    "food_name": "Parsley",
+    "local_name": "Parsley / Ajwain ke patte",
+    "protein_content": 5.55,
+    "total_fat": 1.14,
+    "total_dietary_fibre": 3.87,
+    "carbohydrate": 9.43,
+    "energy_kj": 305
+  },
+  {
+    "food_code": "C029",
+    "food_name": "Ponnaganni",
+    "local_name": "Ponnanganni saag",
+    "protein_content": 5.29,
+    "total_fat": 0.71,
+    "total_dietary_fibre": 6.74,
+    "carbohydrate": 5.17,
+    "energy_kj": 213
+  },
+  {
+    "food_code": "C030",
+    "food_name": "Pumpkin leaves, tender",
+    "local_name": "Kaddu ke patte",
+    "protein_content": 4.21,
+    "total_fat": 0.74,
+    "total_dietary_fibre": 2.25,
+    "carbohydrate": 4.75,
+    "energy_kj": 185
+  },
+  {
+    "food_code": "C031",
+    "food_name": "Radish leaves",
+    "local_name": "Mooli ke patte",
+    "protein_content": 2.22,
+    "total_fat": 0.51,
+    "total_dietary_fibre": 1.82,
+    "carbohydrate": 2.77,
+    "energy_kj": 109
+  },
+  {
+    "food_code": "C032",
+    "food_name": "Rumex leaves",
+    "local_name": "Khatta palak / Chukta",
+    "protein_content": 1.62,
+    "total_fat": 0.33,
+    "total_dietary_fibre": 1.27,
+    "carbohydrate": 2.33,
+    "energy_kj": 82
+  },
+  {
+    "food_code": "C033",
+    "food_name": "Spinach",
+    "local_name": "Palak",
+    "protein_content": 2.14,
+    "total_fat": 0.64,
+    "total_dietary_fibre": 2.38,
+    "carbohydrate": 2.05,
+    "energy_kj": 102
+  },
+  {
+    "food_code": "C034",
+    "food_name": "Tamarind leaves, tender",
+    "local_name": "Imli ke patte",
+    "protein_content": 5.84,
+    "total_fat": 0.49,
+    "total_dietary_fibre": 10.70,
+    "carbohydrate": 10.04,
+    "energy_kj": 299
+  },
+  {
+    "food_code": "B001",
+    "food_name": "Bengal gram, dal",
+    "local_name": "Chana dal",
+    "protein_content": 21.55,
+    "total_fat": 5.31,
+    "total_dietary_fibre": 15.15,
+    "carbohydrate": 46.72,
+    "energy_kj": 1377
+  },
+  {
+    "food_code": "B002",
+    "food_name": "Bengal gram, whole",
+    "local_name": "Kala chana",
+    "protein_content": 18.77,
+    "total_fat": 5.11,
+    "total_dietary_fibre": 25.22,
+    "carbohydrate": 39.56,
+    "energy_kj": 1201
+  },
+  {
+    "food_code": "B003",
+    "food_name": "Black gram, dal",
+    "local_name": "Urad dal",
+    "protein_content": 23.06,
+    "total_fat": 1.69,
+    "total_dietary_fibre": 11.93,
+    "carbohydrate": 51.00,
+    "energy_kj": 1356
+  },
+  {
+    "food_code": "B004",
+    "food_name": "Black gram, whole",
+    "local_name": "Sabut urad",
+    "protein_content": 21.97,
+    "total_fat": 1.58,
+    "total_dietary_fibre": 20.41,
+    "carbohydrate": 43.99,
+    "energy_kj": 1219
+  },
+  {
+    "food_code": "B005",
+    "food_name": "Cowpea, brown",
+    "local_name": "Lal lobia",
+    "protein_content": 20.36,
+    "total_fat": 1.15,
+    "total_dietary_fibre": 11.54,
+    "carbohydrate": 54.62,
+    "energy_kj": 1340
+  },
+  {
+    "food_code": "B006",
+    "food_name": "Cowpea, white",
+    "local_name": "Safed lobia",
+    "protein_content": 21.25,
+    "total_fat": 1.14,
+    "total_dietary_fibre": 11.70,
+    "carbohydrate": 53.77,
+    "energy_kj": 1340
+  },
+  {
+    "food_code": "B007",
+    "food_name": "Field bean, black",
+    "local_name": "Kala sem beej",
+    "protein_content": 19.93,
+    "total_fat": 0.92,
+    "total_dietary_fibre": 23.40,
+    "carbohydrate": 43.46,
+    "energy_kj": 1155
+  },
+  {
+    "food_code": "B008",
+    "food_name": "Field bean, brown",
+    "local_name": "Bhoora sem beej",
+    "protein_content": 19.90,
+    "total_fat": 0.98,
+    "total_dietary_fibre": 22.40,
+    "carbohydrate": 45.24,
+    "energy_kj": 1184
+  },
+  {
+    "food_code": "B009",
+    "food_name": "Field bean, white",
+    "local_name": "Safed sem beej",
+    "protein_content": 19.84,
+    "total_fat": 0.94,
+    "total_dietary_fibre": 22.99,
+    "carbohydrate": 44.53,
+    "energy_kj": 1173
+  },
+  {
+    "food_code": "B010",
+    "food_name": "Green gram, dal",
+    "local_name": "Moong dal",
+    "protein_content": 23.88,
+    "total_fat": 1.35,
+    "total_dietary_fibre": 9.37,
+    "carbohydrate": 52.59,
+    "energy_kj": 1363
+  },
+  {
+    "food_code": "B011",
+    "food_name": "Green gram, whole",
+    "local_name": "Sabut moong",
+    "protein_content": 22.53,
+    "total_fat": 1.14,
+    "total_dietary_fibre": 17.04,
+    "carbohydrate": 46.13,
+    "energy_kj": 1229
+  },
+  {
+    "food_code": "B012",
+    "food_name": "Horse gram, whole",
+    "local_name": "Kulthi dal",
+    "protein_content": 21.73,
+    "total_fat": 0.62,
+    "total_dietary_fibre": 7.88,
+    "carbohydrate": 57.24,
+    "energy_kj": 1379
+  },
+  {
+    "food_code": "B013",
+    "food_name": "Lentil dal",
+    "local_name": "Masoor dal",
+    "protein_content": 24.35,
+    "total_fat": 0.75,
+    "total_dietary_fibre": 10.43,
+    "carbohydrate": 52.53,
+    "energy_kj": 1349
+  },
+  {
+    "food_code": "B014",
+    "food_name": "Lentil whole, brown",
+    "local_name": "Sabut masoor",
+    "protein_content": 22.49,
+    "total_fat": 0.64,
+    "total_dietary_fibre": 16.82,
+    "carbohydrate": 48.47,
+    "energy_kj": 1251
+  },
+  {
+    "food_code": "B015",
+    "food_name": "Lentil whole, yellowish",
+    "local_name": "Peeli sabut masoor",
+    "protein_content": 22.87,
+    "total_fat": 0.61,
+    "total_dietary_fibre": 16.66,
+    "carbohydrate": 47.91,
+    "energy_kj": 1246
+  },
+  {
+    "food_code": "B016",
+    "food_name": "Moth bean",
+    "local_name": "Moth dal",
+    "protein_content": 19.75,
+    "total_fat": 1.76,
+    "total_dietary_fibre": 15.12,
+    "carbohydrate": 52.09,
+    "energy_kj": 1291
+  },
+  {
+    "food_code": "B017",
+    "food_name": "Peas, dry",
+    "local_name": "Sookhi matar",
+    "protein_content": 20.43,
+    "total_fat": 1.89,
+    "total_dietary_fibre": 17.01,
+    "carbohydrate": 48.93,
+    "energy_kj": 1269
+  },
+  {
+    "food_code": "B018",
+    "food_name": "Rajmah, black",
+    "local_name": "Kala rajma",
+    "protein_content": 19.01,
+    "total_fat": 1.62,
+    "total_dietary_fibre": 17.74,
+    "carbohydrate": 49.59,
+    "energy_kj": 1247
+  },
+  {
+    "food_code": "B019",
+    "food_name": "Rajmah, brown",
+    "local_name": "Bhoora rajma",
+    "protein_content": 19.50,
+    "total_fat": 1.68,
+    "total_dietary_fibre": 16.95,
+    "carbohydrate": 48.83,
+    "energy_kj": 1245
+  },
+  {
+    "food_code": "B020",
+    "food_name": "Rajmah, red",
+    "local_name": "Lal rajma",
+    "protein_content": 19.91,
+    "total_fat": 1.77,
+    "total_dietary_fibre": 16.57,
+    "carbohydrate": 48.61,
+    "energy_kj": 1252
+  },
+  {
+    "food_code": "B021",
+    "food_name": "Red gram, dal",
+    "local_name": "Toor dal / Arhar dal",
+    "protein_content": 21.70,
+    "total_fat": 1.56,
+    "total_dietary_fibre": 9.06,
+    "carbohydrate": 55.23,
+    "energy_kj": 1384
+  },
+  {
+    "food_code": "B022",
+    "food_name": "Red gram, whole",
+    "local_name": "Sabut arhar",
+    "protein_content": 20.47,
+    "total_fat": 1.38,
+    "total_dietary_fibre": 22.84,
+    "carbohydrate": 42.48,
+    "energy_kj": 1146
+  },
+  {
+    "food_code": "B023",
+    "food_name": "Ricebean",
+    "local_name": "Rangi dal",
+    "protein_content": 19.97,
+    "total_fat": 0.74,
+    "total_dietary_fibre": 13.37,
+    "carbohydrate": 51.26,
+    "energy_kj": 1265
+  },
+  {
+    "food_code": "B024",
+    "food_name": "Soya bean, brown",
+    "local_name": "Bhoora soyabean",
+    "protein_content": 35.58,
+    "total_fat": 19.82,
+    "total_dietary_fibre": 21.55,
+    "carbohydrate": 12.79,
+    "energy_kj": 1596
+  },
+  {
+    "food_code": "B025",
+    "food_name": "Soya bean, white",
+    "local_name": "Safed soyabean",
+    "protein_content": 37.80,
+    "total_fat": 19.42,
+    "total_dietary_fibre": 22.63,
+    "carbohydrate": 10.16,
+    "energy_kj": 1579
+  }
+]
